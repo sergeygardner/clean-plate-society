@@ -1,0 +1,347 @@
+{
+    "sourceLanguage": "en",
+    "strings": {
+        "day.1": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Sincerely,"
+                    }
+                }
+            }
+        },
+        "day.2": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respectfully,"
+                    }
+                }
+            }
+        },
+        "day.3": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Yours truly,"
+                    }
+                }
+            }
+        },
+        "day.4": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Most sincerely,"
+                    }
+                }
+            }
+        },
+        "day.5": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Kind regards,"
+                    }
+                }
+            }
+        },
+        "day.6": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With kind regards,"
+                    }
+                }
+            }
+        },
+        "day.7": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Yours sincerely,"
+                    }
+                }
+            }
+        },
+        "day.8": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With sincere thanks,"
+                    }
+                }
+            }
+        },
+        "day.9": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Warm regards,"
+                    }
+                }
+            }
+        },
+        "day.10": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respectfully yours,"
+                    }
+                }
+            }
+        },
+        "day.11": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With highest esteem,"
+                    }
+                }
+            }
+        },
+        "day.12": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With my best wishes,"
+                    }
+                }
+            }
+        },
+        "day.13": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With appreciation,"
+                    }
+                }
+            }
+        },
+        "day.14": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Most respectfully yours,"
+                    }
+                }
+            }
+        },
+        "day.15": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "In professional courtesy,"
+                    }
+                }
+            }
+        },
+        "day.16": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Yours faithfully,"
+                    }
+                }
+            }
+        },
+        "day.17": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Please accept my best regards,"
+                    }
+                }
+            }
+        },
+        "day.18": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With due respect,"
+                    }
+                }
+            }
+        },
+        "day.19": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With great respect,"
+                    }
+                }
+            }
+        },
+        "day.20": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With every good wish,"
+                    }
+                }
+            }
+        },
+        "day.21": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Cordially,"
+                    }
+                }
+            }
+        },
+        "day.22": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With sincere appreciation,"
+                    }
+                }
+            }
+        },
+        "day.23": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Sincerely yours,"
+                    }
+                }
+            }
+        },
+        "day.24": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With professional regards,"
+                    }
+                }
+            }
+        },
+        "day.25": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Wishing you continued success,"
+                    }
+                }
+            }
+        },
+        "day.26": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With gratitude for your time,"
+                    }
+                }
+            }
+        },
+        "day.27": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "I remain yours sincerely,"
+                    }
+                }
+            }
+        },
+        "day.28": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With my sincerest respects,"
+                    }
+                }
+            }
+        },
+        "day.29": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "I thank you for your consideration,"
+                    }
+                }
+            }
+        },
+        "day.30": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Until we speak again,"
+                    }
+                }
+            }
+        },
+        "day.31": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Most cordially,"
+                    }
+                }
+            }
+        }
+    },
+    "version": "1.1"
+}

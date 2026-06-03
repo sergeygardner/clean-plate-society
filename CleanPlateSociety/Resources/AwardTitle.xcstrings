@@ -1,0 +1,567 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "level1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Initiate"
+          }
+        }
+      }
+    },
+    "level2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Crumb Catcher"
+          }
+        }
+      }
+    },
+    "level3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Plate Polisher"
+          }
+        }
+      }
+    },
+    "level4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Scrapless Scout"
+          }
+        }
+      }
+    },
+    "level5" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Dish Devotee"
+          }
+        }
+      }
+    },
+    "level6" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Harvester"
+          }
+        }
+      }
+    },
+    "level7" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Soil Steward"
+          }
+        }
+      }
+    },
+    "level8" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Seed Guardian"
+          }
+        }
+      }
+    },
+    "level9" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Rain Reaper"
+          }
+        }
+      }
+    },
+    "level10" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Sun Seeker"
+          }
+        }
+      }
+    },
+    "level11" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Sous-Diner"
+          }
+        }
+      }
+    },
+    "level12" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Stove Sentinel"
+          }
+        }
+      }
+    },
+    "level13" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Knife Knight"
+          }
+        }
+      }
+    },
+    "level14" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Flame Follower"
+          }
+        }
+      }
+    },
+    "level15" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Flavour Finder"
+          }
+        }
+      }
+    },
+    "level16" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Green Guardian"
+          }
+        }
+      }
+    },
+    "level17" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Waste Watcher"
+          }
+        }
+      }
+    },
+    "level18" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Resource Ranger"
+          }
+        }
+      }
+    },
+    "level19" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Planet Protector"
+          }
+        }
+      }
+    },
+    "level20" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Future Finder"
+          }
+        }
+      }
+    },
+    "level21" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Technical Titan"
+          }
+        }
+      }
+    },
+    "level22" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Mop Master"
+          }
+        }
+      }
+    },
+    "level23" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Sweep Specialist"
+          }
+        }
+      }
+    },
+    "level24" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Polish Pro"
+          }
+        }
+      }
+    },
+    "level25" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Clearing Captain"
+          }
+        }
+      }
+    },
+    "level26" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Banquet Baron"
+          }
+        }
+      }
+    },
+    "level27" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Feast Finder"
+          }
+        }
+      }
+    },
+    "level28" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Gourmet General"
+          }
+        }
+      }
+    },
+    "level29" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Culinary Commander"
+          }
+        }
+      }
+    },
+    "level30" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Savoury Sage"
+          }
+        }
+      }
+    },
+    "level31" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Zero-Trace Zealot"
+          }
+        }
+      }
+    },
+    "level32" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Eco Elite"
+          }
+        }
+      }
+    },
+    "level33" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Sustainable Squire"
+          }
+        }
+      }
+    },
+    "level34" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Earth Envoy"
+          }
+        }
+      }
+    },
+    "level35" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Nature Noble"
+          }
+        }
+      }
+    },
+    "level36" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Kitchen King"
+          }
+        }
+      }
+    },
+    "level37" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Griddle Great"
+          }
+        }
+      }
+    },
+    "level38" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Oven Oracle"
+          }
+        }
+      }
+    },
+    "level39" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Pan Paladin"
+          }
+        }
+      }
+    },
+    "level40" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Buffet Boss"
+          }
+        }
+      }
+    },
+    "level41" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Porcelain Prince"
+          }
+        }
+      }
+    },
+    "level42" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Ceramic Chief"
+          }
+        }
+      }
+    },
+    "level43" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Glaze Governor"
+          }
+        }
+      }
+    },
+    "level44" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Enamel Expert"
+          }
+        }
+      }
+    },
+    "level45" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Kiln Keeper"
+          }
+        }
+      }
+    },
+    "level46" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Infinite Intake"
+          }
+        }
+      }
+    },
+    "level47" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Eternal Eater"
+          }
+        }
+      }
+    },
+    "level48" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Final Finisher"
+          }
+        }
+      }
+    },
+    "level49" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Absolute Absolver"
+          }
+        }
+      }
+    },
+    "level50" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Clean Plate Sovereign"
+          }
+        }
+      }
+    },
+    "level51" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Leap Year Legend"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

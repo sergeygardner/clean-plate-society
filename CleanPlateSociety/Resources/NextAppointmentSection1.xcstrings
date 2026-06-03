@@ -1,0 +1,1018 @@
+{
+    "sourceLanguage": "en",
+    "strings": {
+        "section1.1": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We formally acknowledge receipt of your request to record a new triumph within the Great Ledger."
+                    }
+                }
+            }
+        },
+        "section1.2": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your petition to enter a fresh achievement into the Grand Archive has been received."
+                    }
+                }
+            }
+        },
+        "section1.3": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We confirm the arrival of your request to preserve this accomplishment in the Eternal Records."
+                    }
+                }
+            }
+        },
+        "section1.4": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your submission seeking entry into the Hall of Triumphs has been officially accepted."
+                    }
+                }
+            }
+        },
+        "section1.5": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We recognize your request to inscribe another noble deed into the Sacred Ledger."
+                    }
+                }
+            }
+        },
+        "section1.6": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Formal notice has been taken of your application to expand the Great Chronicle."
+                    }
+                }
+            }
+        },
+        "section1.7": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your appeal to register a newly earned distinction has safely reached the archive."
+                    }
+                }
+            }
+        },
+        "section1.8": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We acknowledge receipt of your honorable request to update the Royal Annals."
+                    }
+                }
+            }
+        },
+        "section1.9": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your request to commemorate a recent victory in the Golden Register has been noted."
+                    }
+                }
+            }
+        },
+        "section1.10": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We hereby certify the arrival of your petition to document a new success."
+                    }
+                }
+            }
+        },
+        "section1.11": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your application to archive a fresh accomplishment within the Hall of Glory has been received."
+                    }
+                }
+            }
+        },
+        "section1.12": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We officially recognize your request to immortalize another achievement."
+                    }
+                }
+            }
+        },
+        "section1.13": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your message requesting entry into the Master Ledger has been formally processed."
+                    }
+                }
+            }
+        },
+        "section1.14": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We respectfully acknowledge your petition to record a distinguished feat."
+                    }
+                }
+            }
+        },
+        "section1.15": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your request to add another triumph to the Eternal Chronicle has been accepted."
+                    }
+                }
+            }
+        },
+        "section1.16": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We confirm receipt of your desire to preserve this honorable accomplishment."
+                    }
+                }
+            }
+        },
+        "section1.17": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your submission seeking recognition in the Hall of Records has been acknowledged."
+                    }
+                }
+            }
+        },
+        "section1.18": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We formally recognize your request to expand the Sacred Archive."
+                    }
+                }
+            }
+        },
+        "section1.19": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your petition to enter a recent achievement into the Imperial Ledger has arrived."
+                    }
+                }
+            }
+        },
+        "section1.20": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We acknowledge your official request to chronicle a fresh victory."
+                    }
+                }
+            }
+        },
+        "section1.21": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your application to preserve another deed within the Grand Registry has been accepted."
+                    }
+                }
+            }
+        },
+        "section1.22": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We hereby confirm receipt of your request to honor a newly completed feat."
+                    }
+                }
+            }
+        },
+        "section1.23": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your appeal to document this accomplishment in the Eternal Annals has been noted."
+                    }
+                }
+            }
+        },
+        "section1.24": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We recognize your request to record another success in the Hall of Legends."
+                    }
+                }
+            }
+        },
+        "section1.25": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your submission requesting archival of a noble triumph has safely arrived."
+                    }
+                }
+            }
+        },
+        "section1.26": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We formally acknowledge your petition to enter another deed into the Great Records."
+                    }
+                }
+            }
+        },
+        "section1.27": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your request to commemorate a recent distinction has been officially received."
+                    }
+                }
+            }
+        },
+        "section1.28": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We confirm the arrival of your honorable application to update the Sacred Chronicle."
+                    }
+                }
+            }
+        },
+        "section1.29": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your petition to archive a newly earned success has entered formal review."
+                    }
+                }
+            }
+        },
+        "section1.30": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We officially recognize your request to preserve this victory within the Royal Register."
+                    }
+                }
+            }
+        },
+        "section1.31": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your application seeking entry into the Hall of Achievements has been accepted."
+                    }
+                }
+            }
+        },
+        "section1.32": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We acknowledge receipt of your desire to immortalize another triumph."
+                    }
+                }
+            }
+        },
+        "section1.33": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your request to add a fresh accomplishment to the Golden Archive has been noted."
+                    }
+                }
+            }
+        },
+        "section1.34": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We respectfully confirm your petition to expand the Eternal Ledger."
+                    }
+                }
+            }
+        },
+        "section1.35": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your submission to record a recent feat in the Sacred Records has been received."
+                    }
+                }
+            }
+        },
+        "section1.36": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We formally recognize your request to preserve another celebrated success."
+                    }
+                }
+            }
+        },
+        "section1.37": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your appeal to enter a new distinction within the Hall of Honors has been acknowledged."
+                    }
+                }
+            }
+        },
+        "section1.38": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We confirm receipt of your request to archive this noble achievement."
+                    }
+                }
+            }
+        },
+        "section1.39": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your petition to update the Grand Chronicle with another triumph has arrived."
+                    }
+                }
+            }
+        },
+        "section1.40": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We officially acknowledge your request to record a worthy accomplishment."
+                    }
+                }
+            }
+        },
+        "section1.41": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your application to document a fresh victory in the Hall of Memory has been accepted."
+                    }
+                }
+            }
+        },
+        "section1.42": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We recognize your desire to preserve this remarkable deed within the Great Archive."
+                    }
+                }
+            }
+        },
+        "section1.43": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your request for recognition in the Royal Chronicle has been formally received."
+                    }
+                }
+            }
+        },
+        "section1.44": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We hereby acknowledge your petition to add another success to the Eternal Records."
+                    }
+                }
+            }
+        },
+        "section1.45": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your submission seeking entry into the Sacred Annals has safely arrived."
+                    }
+                }
+            }
+        },
+        "section1.46": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We officially confirm receipt of your honorable request to document this triumph."
+                    }
+                }
+            }
+        },
+        "section1.47": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your application to preserve another achievement within the Hall of Glory has been noted."
+                    }
+                }
+            }
+        },
+        "section1.48": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We formally recognize your petition to record a newly earned honor."
+                    }
+                }
+            }
+        },
+        "section1.49": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your request to commemorate a fresh success in the Imperial Archive has been received."
+                    }
+                }
+            }
+        },
+        "section1.50": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We acknowledge your appeal to expand the Master Chronicle with another deed."
+                    }
+                }
+            }
+        },
+        "section1.51": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your petition to archive a recent accomplishment within the Grand Ledger has been accepted."
+                    }
+                }
+            }
+        },
+        "section1.52": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We confirm receipt of your request to immortalize this distinguished victory."
+                    }
+                }
+            }
+        },
+        "section1.53": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your submission seeking recognition within the Hall of Triumphs has been formally acknowledged."
+                    }
+                }
+            }
+        },
+        "section1.54": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We respectfully recognize your request to preserve another feat in the Sacred Register."
+                    }
+                }
+            }
+        },
+        "section1.55": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your application to document a fresh accomplishment in the Golden Chronicle has arrived."
+                    }
+                }
+            }
+        },
+        "section1.56": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We officially acknowledge receipt of your petition to honor a new triumph."
+                    }
+                }
+            }
+        },
+        "section1.57": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your request to record another notable success within the Eternal Archive has been noted."
+                    }
+                }
+            }
+        },
+        "section1.58": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We confirm the arrival of your honorable submission to the Royal Records."
+                    }
+                }
+            }
+        },
+        "section1.59": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your appeal to preserve a newly earned distinction has entered the archives."
+                    }
+                }
+            }
+        },
+        "section1.60": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We formally recognize your request to add another deed to the Great Annals."
+                    }
+                }
+            }
+        },
+        "section1.61": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your application to chronicle a recent victory within the Hall of Legends has been accepted."
+                    }
+                }
+            }
+        },
+        "section1.62": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We acknowledge your request to document this worthy achievement in the Sacred Ledger."
+                    }
+                }
+            }
+        },
+        "section1.63": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your petition seeking preservation of another triumph has safely reached the archive."
+                    }
+                }
+            }
+        },
+        "section1.64": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We hereby confirm receipt of your request to expand the Imperial Chronicle."
+                    }
+                }
+            }
+        },
+        "section1.65": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your submission to record a fresh success in the Hall of Deeds has been received."
+                    }
+                }
+            }
+        },
+        "section1.66": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We officially recognize your application to immortalize this accomplishment."
+                    }
+                }
+            }
+        },
+        "section1.67": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your request to preserve another honored feat within the Eternal Register has been noted."
+                    }
+                }
+            }
+        },
+        "section1.68": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We acknowledge your petition to update the Grand Archive with a new triumph."
+                    }
+                }
+            }
+        },
+        "section1.69": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your application seeking entry into the Sacred Records has been formally accepted."
+                    }
+                }
+            }
+        },
+        "section1.70": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We confirm receipt of your honorable request to commemorate another victory."
+                    }
+                }
+            }
+        },
+        "section1.71": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your submission to archive a recent achievement within the Hall of Achievements has arrived."
+                    }
+                }
+            }
+        },
+        "section1.72": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We formally recognize your desire to preserve this noble success."
+                    }
+                }
+            }
+        },
+        "section1.73": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your request to record another distinction in the Great Chronicle has been acknowledged."
+                    }
+                }
+            }
+        },
+        "section1.74": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We respectfully confirm the arrival of your petition to expand the Golden Ledger."
+                    }
+                }
+            }
+        },
+        "section1.75": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your application to document a newly earned triumph within the Royal Archive has been received."
+                    }
+                }
+            }
+        },
+        "section1.76": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We officially acknowledge your request to preserve another remarkable deed."
+                    }
+                }
+            }
+        },
+        "section1.77": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your petition seeking recognition in the Eternal Annals has safely entered the records."
+                    }
+                }
+            }
+        },
+        "section1.78": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We recognize your request to archive a fresh accomplishment in the Hall of Glory."
+                    }
+                }
+            }
+        },
+        "section1.79": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your submission to record another success within the Sacred Chronicle has been accepted."
+                    }
+                }
+            }
+        },
+        "section1.80": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We formally acknowledge receipt of your petition to immortalize this victory."
+                    }
+                }
+            }
+        },
+        "section1.81": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your request to preserve a newly completed feat in the Grand Register has been noted."
+                    }
+                }
+            }
+        },
+        "section1.82": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We confirm the arrival of your honorable application to document another triumph."
+                    }
+                }
+            }
+        },
+        "section1.83": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your petition to enter a fresh achievement into the Hall of Memory has been received."
+                    }
+                }
+            }
+        },
+        "section1.84": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We officially recognize your request to expand the Eternal Ledger with another success."
+                    }
+                }
+            }
+        },
+        "section1.85": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your submission seeking archival of a distinguished deed has been accepted."
+                    }
+                }
+            }
+        },
+        "section1.86": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We acknowledge your request to preserve this accomplishment within the Royal Chronicle."
+                    }
+                }
+            }
+        },
+        "section1.87": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your application to record another celebrated triumph has entered the Great Archive."
+                    }
+                }
+            }
+        },
+        "section1.88": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We formally recognize your petition to document a recent honor."
+                    }
+                }
+            }
+        },
+        "section1.89": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your request to commemorate another worthy feat within the Sacred Annals has arrived."
+                    }
+                }
+            }
+        },
+        "section1.90": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We confirm receipt of your submission to preserve a new victory in the Hall of Records."
+                    }
+                }
+            }
+        },
+        "section1.91": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your petition to archive another noble accomplishment has been officially acknowledged."
+                    }
+                }
+            }
+        },
+        "section1.92": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We hereby acknowledge receipt of your request to enter a new achievement into the Great Ledger."
+                    }
+                }
+            }
+        }
+    },
+    "version": "1.1"
+}

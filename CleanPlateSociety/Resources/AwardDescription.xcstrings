@@ -1,0 +1,567 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "level1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demonstrates consistent pride in their seat and purpose in their finish."
+          }
+        }
+      }
+    },
+    "level2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masters the art of spotting and securing the smallest morsels."
+          }
+        }
+      }
+    },
+    "level3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leaves the porcelain in a state that reflects their growing commitment."
+          }
+        }
+      }
+    },
+    "level4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A keen eye for hidden remnants under garnishes or sauces."
+          }
+        }
+      }
+    },
+    "level5" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The clean plate is no longer a task, but a way of life."
+          }
+        }
+      }
+    },
+    "level6" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shows deep respect for the natural cycle and the bounty of the earth."
+          }
+        }
+      }
+    },
+    "level7" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recognises the effort of the land in every vegetable consumed."
+          }
+        }
+      }
+    },
+    "level8" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honours the start of life by finishing the final product."
+          }
+        }
+      }
+    },
+    "level9" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acknowledges the hydration of the harvest with a clear dish."
+          }
+        }
+      }
+    },
+    "level10" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finishes the meal to honour the energy provided by the sun."
+          }
+        }
+      }
+    },
+    "level11" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honours the culinary craft and the intensity of the kitchen."
+          }
+        }
+      }
+    },
+    "level12" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guards the legacy of the cook by leaving no trace behind."
+          }
+        }
+      }
+    },
+    "level13" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appreciates the prep work with a precise and total finish."
+          }
+        }
+      }
+    },
+    "level14" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eats with the passion used to cook over an open flame."
+          }
+        }
+      }
+    },
+    "level15" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Captures every note of seasoning until the dish is bare."
+          }
+        }
+      }
+    },
+    "level16" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protects global resources by ensuring a zero-trace lifestyle."
+          }
+        }
+      }
+    },
+    "level17" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actively prevents the sin of the bin with every seating."
+          }
+        }
+      }
+    },
+    "level18" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sees the hidden cost of food and pays it back in full."
+          }
+        }
+      }
+    },
+    "level19" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A global citizen dining for the health of the world."
+          }
+        }
+      }
+    },
+    "level20" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ensures the next generation has plenty by finishing their share."
+          }
+        }
+      }
+    },
+    "level21" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The pinnacle of physical dining mastery and cleanup skill."
+          }
+        }
+      }
+    },
+    "level22" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uses bread and grain to absorb every liquid remnant."
+          }
+        }
+      }
+    },
+    "level23" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navigates the geometry of any vessel with total efficiency."
+          }
+        }
+      }
+    },
+    "level24" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wipes the plate so thoroughly it appears un-used."
+          }
+        }
+      }
+    },
+    "level25" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coordinates the table’s effort to ensure all plates are clear."
+          }
+        }
+      }
+    },
+    "level26" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Handles large-scale social dining without leaving a trace."
+          }
+        }
+      }
+    },
+    "level27" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Successfully navigates complex, multi-course banquet menus."
+          }
+        }
+      }
+    },
+    "level28" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strategically paces through massive meals to ensure a total finish."
+          }
+        }
+      }
+    },
+    "level29" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commands the table's respect by conquering every dish served."
+          }
+        }
+      }
+    },
+    "level30" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A deep understanding of the connection between satiety and duty."
+          }
+        }
+      }
+    },
+    "level31" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leaves absolutely nothing, not even a drop of oil or a seed."
+          }
+        }
+      }
+    },
+    "level32" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A high-ranking officer in the war against kitchen waste."
+          }
+        }
+      }
+    },
+    "level33" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serves the earth by upholding the highest ethical standards."
+          }
+        }
+      }
+    },
+    "level34" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spreads the message of the Society through their actions."
+          }
+        }
+      }
+    },
+    "level35" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dines with the grace of one who truly loves the natural world."
+          }
+        }
+      }
+    },
+    "level36" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Understands the history of every recipe they finish."
+          }
+        }
+      }
+    },
+    "level37" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masters meals from the flat-top with legendary speed."
+          }
+        }
+      }
+    },
+    "level38" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patience and persistence result in a perfectly cleared roast."
+          }
+        }
+      }
+    },
+    "level39" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protects the flavour of the pan by leaving none behind."
+          }
+        }
+      }
+    },
+    "level40" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exercises the ultimate control in an all-you-can-eat environment."
+          }
+        }
+      }
+    },
+    "level41" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treats every plate like a royal heirloom to be polished."
+          }
+        }
+      }
+    },
+    "level42" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honours the potter’s work by revealing the glaze in full."
+          }
+        }
+      }
+    },
+    "level43" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ensures the glass-smooth surface of the plate is pristine."
+          }
+        }
+      }
+    },
+    "level44" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Understands the resilience of the dish and matches it."
+          }
+        }
+      }
+    },
+    "level45" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acknowledges the fire that made the plate by clearing it."
+          }
+        }
+      }
+    },
+    "level46" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The stomach becomes a gateway to an endless finish."
+          }
+        }
+      }
+    },
+    "level47" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No beginning and no end, only the constant clearing."
+          }
+        }
+      }
+    },
+    "level48" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The ultimate closer for any meal, anywhere, anytime."
+          }
+        }
+      }
+    },
+    "level49" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Absolves the kitchen of all waste through pure consumption."
+          }
+        }
+      }
+    },
+    "level50" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The supreme ruler of the spotless dish. The porcelain is their throne."
+          }
+        }
+      }
+    },
+    "level51" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No crumb to escape, no sauce to remain, and no plate to go unpolished."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

@@ -1,0 +1,1018 @@
+{
+    "sourceLanguage": "en",
+    "strings": {
+        "section3.1": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have cleared your plate, and we request that a formal record be entered into the Great Ledger."
+                    }
+                }
+            }
+        },
+        "section3.2": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your meal has been finished in full, and an official notation should now be added to the Grand Register."
+                    }
+                }
+            }
+        },
+        "section3.3": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Having completed your plate, we ask that this achievement be preserved within the Eternal Chronicle."
+                    }
+                }
+            }
+        },
+        "section3.4": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your dish now stands empty, and we humbly request an entry in the Hall of Records."
+                    }
+                }
+            }
+        },
+        "section3.5": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The plate has been finished entirely, and we seek official recognition within the Sacred Ledger."
+                    }
+                }
+            }
+        },
+        "section3.6": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have eaten every last bite, and we ask that the Great Archive record this noble feat."
+                    }
+                }
+            }
+        },
+        "section3.7": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With your plate now cleared, we request the addition of your triumph to the Royal Annals."
+                    }
+                }
+            }
+        },
+        "section3.8": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your meal has been conquered completely, and an honorable entry should be made in the Master Ledger."
+                    }
+                }
+            }
+        },
+        "section3.9": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Having left no crumbs behind, you are hereby recommended for inclusion in the Book of Achievements."
+                    }
+                }
+            }
+        },
+        "section3.10": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The feast has been completed, and we respectfully request your recognition within the Grand Chronicle."
+                    }
+                }
+            }
+        },
+        "section3.11": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate rests empty before us, and we ask that this victory be documented in the Eternal Records."
+                    }
+                }
+            }
+        },
+        "section3.12": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every morsel has been consumed, and an official inscription should be added to the Hall of Triumphs."
+                    }
+                }
+            }
+        },
+        "section3.13": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have finished your supper admirably, and we seek entry into the Golden Ledger on your behalf."
+                    }
+                }
+            }
+        },
+        "section3.14": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The meal has been fully enjoyed, and we request formal acknowledgment in the Sacred Archive."
+                    }
+                }
+            }
+        },
+        "section3.15": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your clean plate stands as proof of success, and we ask that the Imperial Registry be updated accordingly."
+                    }
+                }
+            }
+        },
+        "section3.16": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With nothing remaining upon your dish, we request a ceremonial entry into the Great Book of Deeds."
+                    }
+                }
+            }
+        },
+        "section3.17": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your excellent effort at the table deserves official preservation within the Royal Chronicle."
+                    }
+                }
+            }
+        },
+        "section3.18": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The plate has been polished clean, and we ask that this accomplishment be entered into the Hall of Glory."
+                    }
+                }
+            }
+        },
+        "section3.19": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have completed your meal with honor, and we request your addition to the Eternal Annals."
+                    }
+                }
+            }
+        },
+        "section3.20": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your dining achievement is worthy of record, and we seek formal entry into the Sacred Records."
+                    }
+                }
+            }
+        },
+        "section3.21": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The table bears witness to your empty plate, and we ask for recognition within the Grand Registry."
+                    }
+                }
+            }
+        },
+        "section3.22": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Having completed the feast, you are hereby recommended for entry into the Book of Honors."
+                    }
+                }
+            }
+        },
+        "section3.23": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your meal has vanished entirely, and we respectfully request archival within the Great Ledger."
+                    }
+                }
+            }
+        },
+        "section3.24": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With your plate now spotless, we ask that this deed be chronicled among the royal records."
+                    }
+                }
+            }
+        },
+        "section3.25": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have eaten splendidly, and we seek an official notation within the Hall of Achievements."
+                    }
+                }
+            }
+        },
+        "section3.26": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The dish has been cleared in full, and we request your triumph be recorded in the Eternal Archive."
+                    }
+                }
+            }
+        },
+        "section3.27": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your empty plate speaks of victory, and we ask that the Sacred Chronicle reflect this accomplishment."
+                    }
+                }
+            }
+        },
+        "section3.28": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Having conquered every bite, you deserve an honored place within the Golden Register."
+                    }
+                }
+            }
+        },
+        "section3.29": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The meal is no more, and we request formal recognition within the Imperial Ledger."
+                    }
+                }
+            }
+        },
+        "section3.30": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your remarkable clean plate should now be commemorated within the Hall of Legends."
+                    }
+                }
+            }
+        },
+        "section3.31": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every crumb has disappeared, and we ask that your success be preserved in the Great Chronicle."
+                    }
+                }
+            }
+        },
+        "section3.32": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have dined with distinction, and we request an official inscription within the Sacred Annals."
+                    }
+                }
+            }
+        },
+        "section3.33": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The feast has been vanquished completely, and we seek recognition for you in the Royal Archive."
+                    }
+                }
+            }
+        },
+        "section3.34": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate now shines empty, and we ask that this achievement enter the Eternal Register."
+                    }
+                }
+            }
+        },
+        "section3.35": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have shown admirable determination at the table, and we request your inclusion in the Hall of Memory."
+                    }
+                }
+            }
+        },
+        "section3.36": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The meal has been triumphantly completed, and we seek an entry in the Grand Archive."
+                    }
+                }
+            }
+        },
+        "section3.37": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With your dish fully emptied, we ask that this noble accomplishment be officially documented."
+                    }
+                }
+            }
+        },
+        "section3.38": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your clean plate has earned you recognition within the Book of Triumphs."
+                    }
+                }
+            }
+        },
+        "section3.39": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The final bite has been claimed, and we request your addition to the Master Chronicle."
+                    }
+                }
+            }
+        },
+        "section3.40": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your successful supper deserves preservation within the Sacred Ledger."
+                    }
+                }
+            }
+        },
+        "section3.41": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The table now rests free of leftovers, and we ask for an honored entry in the Great Records."
+                    }
+                }
+            }
+        },
+        "section3.42": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have completed your meal bravely, and we request a formal place for you in the Hall of Glory."
+                    }
+                }
+            }
+        },
+        "section3.43": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The plate has been emptied with excellence, and we ask that the Eternal Chronicle note your success."
+                    }
+                }
+            }
+        },
+        "section3.44": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your dining accomplishment has been witnessed, and we seek recognition within the Imperial Archive."
+                    }
+                }
+            }
+        },
+        "section3.45": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have prevailed over every bite, and we request entry into the Royal Register on your behalf."
+                    }
+                }
+            }
+        },
+        "section3.46": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The meal has been joyfully finished, and we ask that your deed be remembered within the Sacred Records."
+                    }
+                }
+            }
+        },
+        "section3.47": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your empty plate is deserving of ceremony, and we request inclusion within the Grand Annals."
+                    }
+                }
+            }
+        },
+        "section3.48": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every trace of the meal has vanished, and we ask that this feat be entered into the Golden Archive."
+                    }
+                }
+            }
+        },
+        "section3.49": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have eaten with great honor, and we respectfully request official recognition in the Hall of Deeds."
+                    }
+                }
+            }
+        },
+        "section3.50": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The supper stands completed, and we seek your inscription within the Eternal Ledger."
+                    }
+                }
+            }
+        },
+        "section3.51": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your finished plate has earned distinction, and we ask that the Great Registry acknowledge your success."
+                    }
+                }
+            }
+        },
+        "section3.52": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The feast has been fully enjoyed, and we request that your triumph be chronicled forevermore."
+                    }
+                }
+            }
+        },
+        "section3.53": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your clean dish is proof of valor, and we ask that the Sacred Chronicle be updated accordingly."
+                    }
+                }
+            }
+        },
+        "section3.54": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left nothing behind, and we seek your formal addition to the Hall of Achievements."
+                    }
+                }
+            }
+        },
+        "section3.55": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The meal has been conquered entirely, and we request preservation of this victory in the Royal Records."
+                    }
+                }
+            }
+        },
+        "section3.56": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your spotless plate deserves remembrance within the Grand Ledger."
+                    }
+                }
+            }
+        },
+        "section3.57": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every bite has been finished with pride, and we ask for your inclusion in the Eternal Archive."
+                    }
+                }
+            }
+        },
+        "section3.58": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your dining success calls for recognition within the Hall of Triumphs."
+                    }
+                }
+            }
+        },
+        "section3.59": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The dish has been honorably cleared, and we request an official entry in the Sacred Register."
+                    }
+                }
+            }
+        },
+        "section3.60": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your meal has been completed in glorious fashion, and we seek acknowledgment within the Great Chronicle."
+                    }
+                }
+            }
+        },
+        "section3.61": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The plate before us now lies empty, and we ask that your accomplishment be immortalized."
+                    }
+                }
+            }
+        },
+        "section3.62": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have demonstrated mighty appetite and admirable resolve, and we request entry into the Imperial Annals."
+                    }
+                }
+            }
+        },
+        "section3.63": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your supper has been finished entirely, and we ask that this feat be recorded for all time."
+                    }
+                }
+            }
+        },
+        "section3.64": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The final crumb has disappeared, and we request your formal recognition within the Hall of Legends."
+                    }
+                }
+            }
+        },
+        "section3.65": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your clean plate stands worthy of celebration within the Golden Ledger."
+                    }
+                }
+            }
+        },
+        "section3.66": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Having finished your meal completely, we ask that your deed be added to the Royal Chronicle."
+                    }
+                }
+            }
+        },
+        "section3.67": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The table bears no leftovers, and we seek your inclusion within the Sacred Archive."
+                    }
+                }
+            }
+        },
+        "section3.68": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your excellent effort at mealtime deserves official preservation within the Great Records."
+                    }
+                }
+            }
+        },
+        "section3.69": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The feast has been mastered, and we request a ceremonial entry into the Eternal Register."
+                    }
+                }
+            }
+        },
+        "section3.70": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate now rests empty in triumph, and we ask that the Hall of Glory acknowledge your success."
+                    }
+                }
+            }
+        },
+        "section3.71": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every morsel has been joyfully consumed, and we seek recognition within the Grand Annals."
+                    }
+                }
+            }
+        },
+        "section3.72": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your meal has been finished with distinction, and we request an honored place in the Sacred Ledger."
+                    }
+                }
+            }
+        },
+        "section3.73": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The dish has been completely cleared, and we ask that your achievement be entered into the Master Archive."
+                    }
+                }
+            }
+        },
+        "section3.74": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your clean plate shines as evidence of victory, and we request formal acknowledgment in the Great Chronicle."
+                    }
+                }
+            }
+        },
+        "section3.75": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Having completed the meal in full, you are recommended for entry into the Hall of Honors."
+                    }
+                }
+            }
+        },
+        "section3.76": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your supper has been admirably finished, and we seek to preserve this triumph within the Eternal Records."
+                    }
+                }
+            }
+        },
+        "section3.77": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The feast now belongs to history, and we request your inclusion within the Royal Register."
+                    }
+                }
+            }
+        },
+        "section3.78": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate bears no remaining trace of the meal, and we ask that the Sacred Annals record your success."
+                    }
+                }
+            }
+        },
+        "section3.79": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every bite has been bravely conquered, and we request your addition to the Golden Chronicle."
+                    }
+                }
+            }
+        },
+        "section3.80": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your spotless dish deserves official remembrance within the Grand Archive."
+                    }
+                }
+            }
+        },
+        "section3.81": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The meal has been fully completed, and we seek your recognition within the Hall of Deeds."
+                    }
+                }
+            }
+        },
+        "section3.82": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your finished plate stands as a worthy accomplishment, and we ask that it be immortalized in the Great Ledger."
+                    }
+                }
+            }
+        },
+        "section3.83": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Nothing remains upon your dish, and we respectfully request your inscription into the Sacred Records."
+                    }
+                }
+            }
+        },
+        "section3.84": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your triumph at the table calls for formal acknowledgment within the Eternal Chronicle."
+                    }
+                }
+            }
+        },
+        "section3.85": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The supper has been entirely enjoyed, and we ask that your feat be entered into the Hall of Memory."
+                    }
+                }
+            }
+        },
+        "section3.86": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your clean plate is worthy of legend, and we seek official recognition within the Royal Annals."
+                    }
+                }
+            }
+        },
+        "section3.87": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every crumb has been defeated, and we request preservation of your victory within the Grand Registry."
+                    }
+                }
+            }
+        },
+        "section3.88": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The meal has been conquered with honor, and we ask that your success be documented in the Sacred Archive."
+                    }
+                }
+            }
+        },
+        "section3.89": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your empty plate deserves a place within the Golden Records of achievement."
+                    }
+                }
+            }
+        },
+        "section3.90": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The feast has been completed nobly, and we request formal entry into the Hall of Triumphs."
+                    }
+                }
+            }
+        },
+        "section3.91": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your dining accomplishment shall not go unnoticed, and we seek your inscription within the Eternal Ledger."
+                    }
+                }
+            }
+        },
+        "section3.92": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have finished your plate with great success, and we ask that an official entry be added to the Great Ledger."
+                    }
+                }
+            }
+        }
+    },
+    "version": "1.1"
+}

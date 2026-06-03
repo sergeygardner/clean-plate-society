@@ -1,0 +1,4032 @@
+{
+    "sourceLanguage": "en",
+    "strings": {
+        "day.1": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Welcome! You have clearly mastered the art of the final forkful. We are honoured to have a diner who treats every meal like a masterpiece that deserves a clean finish."
+                    }
+                }
+            }
+        },
+        "day.2": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Greetings, fellow Steward of the Soil. Your commitment to a spotless plate is the ultimate thank-you to the planet. We are thrilled to have you join our zero-waste ranks."
+                    }
+                }
+            }
+        },
+        "day.3": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The table is set and your seat is ready. We have noticed your spotless track record, and we are proud to call you one of our own. Welcome to the inner circle of the empty platter."
+                    }
+                }
+            }
+        },
+        "day.4": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Clear plates, full hearts! You have got the grit and the appetite we look for in this society. Grab a napkin and get ready\u2014the next mission is about to be served!"
+                    }
+                }
+            }
+        },
+        "day.5": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Welcome to the fold! You understand that a clean plate is a silent song of gratitude to the chef. We look forward to seeing your porcelain shine at every seating."
+                    }
+                }
+            }
+        },
+        "day.6": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Nice work on that clean sweep! You are officially one of us now. Pull up a chair and remember: no crumb left behind!"
+                    }
+                }
+            }
+        },
+        "day.7": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Welcome to the society! Your commitment to a clean plate shows a deep respect for the meal and the hands that prepared it. We are proud to have you join our empty-platter ranks."
+                    }
+                }
+            }
+        },
+        "day.8": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Congratulations on your membership! By finishing every morsel, you are leading the charge against food waste. We look forward to seeing your sparkling, empty plate at the next seating."
+                    }
+                }
+            }
+        },
+        "day.9": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A seat is saved for you! You have mastered the art of the perfect finish, proving that good food deserves to be fully enjoyed. Welcome to a community that savours every last crumb."
+                    }
+                }
+            }
+        },
+        "day.10": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "It is an honour to welcome you into our ranks as a steward of the empty plate. Your dedication to finishing every meal reflects a profound respect for our resources and culinary heritage. May your future seat at our table always be marked by a spotless finish."
+                    }
+                }
+            }
+        },
+        "day.11": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We formally recognise your commitment to the values of the Clean Plate Society. By leaving nothing behind, you uphold our mission to eliminate waste and honour the bounty provided. Welcome to a distinguished circle of mindful diners."
+                    }
+                }
+            }
+        },
+        "day.12": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Welcome to the crew! We love seeing a plate so clean it looks like it is already been washed. Pull up a chair and get ready for some serious good eats, no crumb left behind!"
+                    }
+                }
+            }
+        },
+        "day.13": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "So glad to have you with us! You are clearly a pro at the 'clean sweep,' and we can not wait to see you tackle the next course. Here is to empty plates and full stomachs!"
+                    }
+                }
+            }
+        },
+        "day.14": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Welcome to the table! Your plate is a mirror of your dedication."
+                    }
+                }
+            }
+        },
+        "day.15": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A spotless dish is your membership card. Wear it with pride!"
+                    }
+                }
+            }
+        },
+        "day.16": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have joined the ranks of the finishers. Let no crumb stand in your way."
+                    }
+                }
+            }
+        },
+        "day.17": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The porcelain is clear, and so is your path. Welcome to the Society."
+                    }
+                }
+            }
+        },
+        "day.18": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "One meal, one mission, one clean plate. Glad to have you aboard."
+                    }
+                }
+            }
+        },
+        "day.19": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You eat with purpose and finish with poise. Welcome to our ranks."
+                    }
+                }
+            }
+        },
+        "day.20": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The Society grows stronger with every polished platter. Welcome!"
+                    }
+                }
+            }
+        },
+        "day.21": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Spring has sprung, and your plate is cleared. A fresh start for a new member!"
+                    }
+                }
+            }
+        },
+        "day.22": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "As the seeds grow, so does your appetite for excellence. Welcome."
+                    }
+                }
+            }
+        },
+        "day.23": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Summer's bounty deserves a clean finish. You have done the sun proud today."
+                    }
+                }
+            }
+        },
+        "day.24": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The harvest is gathered, and your plate is bare. Welcome to the cycle."
+                    }
+                }
+            }
+        },
+        "day.25": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Winter's chill meets a heart-warming finish. Your seat is warm here."
+                    }
+                }
+            }
+        },
+        "day.26": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Like a falling leaf, every morsel has found its place. Welcome!"
+                    }
+                }
+            }
+        },
+        "day.27": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The earth provides, and you respect the gift. A true member indeed."
+                    }
+                }
+            }
+        },
+        "day.28": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The kitchen sends its thanks; a clean plate is the best review. Welcome!"
+                    }
+                }
+            }
+        },
+        "day.29": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have spoken the chef's favorite language: the language of the empty dish."
+                    }
+                }
+            }
+        },
+        "day.30": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A silent 'bravo' to the cook. We saw that finish\u2014impressive work!"
+                    }
+                }
+            }
+        },
+        "day.31": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate is a love letter to the stove. Welcome to the family."
+                    }
+                }
+            }
+        },
+        "day.32": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The pan sizzled for you, and you didn't let it down. Welcome aboard."
+                    }
+                }
+            }
+        },
+        "day.33": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You honor the chef with every bite. You belong at this table."
+                    }
+                }
+            }
+        },
+        "day.34": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Waste not, want not, and welcome to the lot! You are a hero of the bin."
+                    }
+                }
+            }
+        },
+        "day.35": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every scrap saved is a victory for the planet. Proud to have you."
+                    }
+                }
+            }
+        },
+        "day.36": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You leave no footprint on the plate, only a legacy of respect. Welcome."
+                    }
+                }
+            }
+        },
+        "day.37": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The bin is empty because your heart is full. Join us at the head of the table."
+                    }
+                }
+            }
+        },
+        "day.38": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A clean plate is a green planet. Thank you for your service, member."
+                    }
+                }
+            }
+        },
+        "day.39": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have mastered the art of the 'Zero-Trace' meal. Welcome to the vanguard."
+                    }
+                }
+            }
+        },
+        "day.40": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "That was a textbook 'Sauce-Sweep.' You have got the hands of a pro. Welcome!"
+                    }
+                }
+            }
+        },
+        "day.41": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "No noodle left behind\u2014a true display of fork-titude. Glad you are here."
+                    }
+                }
+            }
+        },
+        "day.42": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You conquered the crust and the garnish too. A complete victory! Welcome."
+                    }
+                }
+            }
+        },
+        "day.43": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your 'Mop-Up' game is elite. We have been watching your progress with joy."
+                    }
+                }
+            }
+        },
+        "day.44": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The corners of the bowl are the hardest, but you cleared them all. Welcome."
+                    }
+                }
+            }
+        },
+        "day.45": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A masterful finish to a challenging dish. You have earned your badge."
+                    }
+                }
+            }
+        },
+        "day.46": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Three times a day, you prove your worth. Welcome to your daily duty."
+                    }
+                }
+            }
+        },
+        "day.47": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Consistency is the secret sauce of this society. You have got it. Welcome."
+                    }
+                }
+            }
+        },
+        "day.48": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Sunup or sundown, your plate is always the same: empty. Welcome."
+                    }
+                }
+            }
+        },
+        "day.49": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A habit of excellence starts at the breakfast table. Good morning, member."
+                    }
+                }
+            }
+        },
+        "day.50": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Lunch was a triumph; we can not wait to see your dinner. Welcome back."
+                    }
+                }
+            }
+        },
+        "day.51": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The midnight snack was also cleared - true dedication! Welcome."
+                    }
+                }
+            }
+        },
+        "day.52": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Day 365: The final plate of the year is as clean as the first. Welcome to the legacy."
+                    }
+                }
+            }
+        },
+        "day.53": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "An extra day for an extra finish. You have cleared the leap! Welcome to the eternal table."
+                    }
+                }
+            }
+        },
+        "day.54": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Leap Year Special: An extra day for an extra finish! Your tray is immaculate and mastered."
+                    }
+                }
+            }
+        },
+        "day.55": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Welcome! You've honoured your dish until it is victorious. A true member's finish."
+                    }
+                }
+            }
+        },
+        "day.56": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Greetings! That dish is victorious. You honor the Society with such a swept meal."
+                    }
+                }
+            }
+        },
+        "day.57": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Hail, Member! Your plate is looking spotless today. The kitchen thanks you for a finished dish."
+                    }
+                }
+            }
+        },
+        "day.58": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Well done! A spotless plate is the mark of a pro. Consider this meal conquered."
+                    }
+                }
+            }
+        },
+        "day.59": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Greetings! That plate is spotless. You honor the Society with such a polished meal."
+                    }
+                }
+            }
+        },
+        "day.60": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A warm welcome! Your pride in this meal is shown by its purposeful finish."
+                    }
+                }
+            }
+        },
+        "day.61": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With great purpose, you have earned a welcome seat. Wear your pride on your sleeve."
+                    }
+                }
+            }
+        },
+        "day.62": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We welcome your appetite. Your purpose was clear; your pride is earned."
+                    }
+                }
+            }
+        },
+        "day.63": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "To the purposeful diner, we offer a welcome. Take pride in that bare plate."
+                    }
+                }
+            }
+        },
+        "day.64": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your pride is our joy. Welcome to a community of purpose."
+                    }
+                }
+            }
+        },
+        "day.65": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A purposeful bite leads to a prideful finish. Welcome to the table."
+                    }
+                }
+            }
+        },
+        "day.66": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "In this Society, purpose meets pride. You are most welcome."
+                    }
+                }
+            }
+        },
+        "day.67": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Welcome! You have found your purpose at the bottom of the bowl. Take pride."
+                    }
+                }
+            }
+        },
+        "day.68": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From the seed to the soil, you have honoured the harvest under the sun and rain."
+                    }
+                }
+            }
+        },
+        "day.69": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The rain fell and the sun shone so this seed could reach your soil-free plate. Happy harvest!"
+                    }
+                }
+            }
+        },
+        "day.70": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respect the harvest. The soil and seed thank you for leaving no trace of the rain's bounty."
+                    }
+                }
+            }
+        },
+        "day.71": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Under the sun, we celebrate the harvest. From seed to finish, you did it!"
+                    }
+                }
+            }
+        },
+        "day.72": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The soil gave its best. You returned a clean plate. A perfect harvest of seed and sun."
+                    }
+                }
+            }
+        },
+        "day.73": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Whether rain or sun, the seed grew for this harvest. Honor the soil and finish!"
+                    }
+                }
+            }
+        },
+        "day.74": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A harvest well-handled. You have respected every seed and every drop of rain."
+                    }
+                }
+            }
+        },
+        "day.75": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The sun sets on a clean plate. From the soil up, you have mastered the harvest."
+                    }
+                }
+            }
+        },
+        "day.76": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef used the knife and the heat of the stove to create this flavour. Bravo!"
+                    }
+                }
+            }
+        },
+        "day.77": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Honour the chef's knife skills. The stove's heat produced a flavour worth finishing."
+                    }
+                }
+            }
+        },
+        "day.78": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every flavour was earned through heat. The chef and the stove salute your finish."
+                    }
+                }
+            }
+        },
+        "day.79": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A master of the stove meets a master of the meal. The chef loves your flavour-sweep!"
+                    }
+                }
+            }
+        },
+        "day.80": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From the knife's edge to the stove's heat, you have captured every flavour."
+                    }
+                }
+            }
+        },
+        "day.81": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef's heat turned flavour into art. Your clean plate is the final stroke."
+                    }
+                }
+            }
+        },
+        "day.82": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respect the stove. The chef's knife and your appetite are a perfect match."
+                    }
+                }
+            }
+        },
+        "day.83": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "For the planet and our future, you have turned waste into a green resource."
+                    }
+                }
+            }
+        },
+        "day.84": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A green choice for a better future. You have protected the planet's resources today."
+                    }
+                }
+            }
+        },
+        "day.85": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Zero waste is the resource of the future. The planet stays green with your help."
+                    }
+                }
+            }
+        },
+        "day.86": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Our future is green. Every resource you save protects our planet from waste."
+                    }
+                }
+            }
+        },
+        "day.87": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respect the planet. By avoiding waste, you secure a green future for all."
+                    }
+                }
+            }
+        },
+        "day.88": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate is a resource for a green planet. No waste, only a bright future."
+                    }
+                }
+            }
+        },
+        "day.89": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A flawless technique! Your polish and sweep made for a perfect clearing."
+                    }
+                }
+            }
+        },
+        "day.90": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Master the mop! Your clearing technique shows a high level of polish."
+                    }
+                }
+            }
+        },
+        "day.91": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A clean sweep! You have used every technique to mop that plate into a polish."
+                    }
+                }
+            }
+        },
+        "day.92": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The art of the clearing. Your technique is elite; your sweep is legendary."
+                    }
+                }
+            }
+        },
+        "day.93": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With a final mop and a steady sweep, you have achieved the ultimate polish."
+                    }
+                }
+            }
+        },
+        "day.94": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The clearing is complete. Your technique and polish are an inspiration to us all."
+                    }
+                }
+            }
+        },
+        "day.95": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Sweep, mop, and polish. That is the technique of a true Society Titan."
+                    }
+                }
+            }
+        },
+        "day.96": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A crisp welcome! Your purpose is clear, and your pride is evident in that spotless finish."
+                    }
+                }
+            }
+        },
+        "day.97": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Stand tall with pride. Your purposeful dining is a welcome sight at our table."
+                    }
+                }
+            }
+        },
+        "day.98": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A welcome toast to you! You have matched your purpose with a prideful performance."
+                    }
+                }
+            }
+        },
+        "day.99": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The sun and rain worked in harmony for this seed. Your harvest is a total success!"
+                    }
+                }
+            }
+        },
+        "day.100": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respect the soil that fed the seed. This harvest was earned, bite by bite."
+                    }
+                }
+            }
+        },
+        "day.101": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From the first drop of rain to the final sun-drenched harvest, you have honoured it all."
+                    }
+                }
+            }
+        },
+        "day.102": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef's knife was sharp, but your appetite was sharper! What a flavour-filled finish."
+                    }
+                }
+            }
+        },
+        "day.103": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have conquered the heat of the stove. The chef salutes your flavour-sweep!"
+                    }
+                }
+            }
+        },
+        "day.104": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The stove provided the heat, but you provided the heart. A masterclass in flavour."
+                    }
+                }
+            }
+        },
+        "day.105": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Protecting our planet starts with one green choice. Your future is looking spotless!"
+                    }
+                }
+            }
+        },
+        "day.106": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A resource saved is a future secured. Thank you for making waste a thing of the past."
+                    }
+                }
+            }
+        },
+        "day.107": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your green heart shows on your plate. A victory for the planet and our resources."
+                    }
+                }
+            }
+        },
+        "day.108": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Incredible technique! That mop and sweep left a polish we can all admire."
+                    }
+                }
+            }
+        },
+        "day.109": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A legendary clearing! Your sweep is precise and your polish is professional."
+                    }
+                }
+            }
+        },
+        "day.110": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Master of the mop! Your clearing technique is the gold standard of the Society."
+                    }
+                }
+            }
+        },
+        "day.111": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A purposeful start and a prideful finish. You are most welcome."
+                    }
+                }
+            }
+        },
+        "day.112": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your pride in the plate is matched only by your purpose at the table. Welcome!"
+                    }
+                }
+            }
+        },
+        "day.113": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We welcome your dedication. May your purpose always be as clear as your dish."
+                    }
+                }
+            }
+        },
+        "day.114": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Take pride in the polish! Your purposeful dining is a welcome addition."
+                    }
+                }
+            }
+        },
+        "day.115": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Welcome to the fold, where pride is earned one purposeful bite at a time."
+                    }
+                }
+            }
+        },
+        "day.116": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A welcome sight! Your pride shines through the porcelain."
+                    }
+                }
+            }
+        },
+        "day.117": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With purpose in your heart and pride on your plate, we welcome you."
+                    }
+                }
+            }
+        },
+        "day.118": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The rain fell so the seed could grow; you finished the harvest and let it show!"
+                    }
+                }
+            }
+        },
+        "day.119": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Honour the soil, respect the sun, and celebrate a harvest well done."
+                    }
+                }
+            }
+        },
+        "day.120": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From the first seed to the final rain-washed leaf, your harvest is a victory."
+                    }
+                }
+            }
+        },
+        "day.121": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The sun provided the energy; you provided the harvest's final home in the soil."
+                    }
+                }
+            }
+        },
+        "day.122": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every seed has a story. Your clean plate is the perfect harvest ending."
+                    }
+                }
+            }
+        },
+        "day.123": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Under the sun or the rain, the soil gave its best. Great job on the harvest!"
+                    }
+                }
+            }
+        },
+        "day.124": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A harvest of one! You have respected the seed and the soil today."
+                    }
+                }
+            }
+        },
+        "day.125": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef's knife was sharp, but your flavour-sweep was sharper! Bravo."
+                    }
+                }
+            }
+        },
+        "day.126": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The stove provided the heat, but you captured the flavour. The chef salutes you."
+                    }
+                }
+            }
+        },
+        "day.127": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respect the heat! Your clean plate is the highest praise for the chef's knife."
+                    }
+                }
+            }
+        },
+        "day.128": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From the stove to the soul, you have mastered every flavour the chef created."
+                    }
+                }
+            }
+        },
+        "day.129": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef used heat to craft this flavour; you used heart to finish it."
+                    }
+                }
+            }
+        },
+        "day.130": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A master of the knife meets a master of the stove. What a flavour-filled win!"
+                    }
+                }
+            }
+        },
+        "day.131": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The heat of the kitchen is rewarded by the flavour of your finished plate."
+                    }
+                }
+            }
+        },
+        "day.132": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A green choice for a planet-sized goal. You have secured our future from waste."
+                    }
+                }
+            }
+        },
+        "day.133": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your resourcefulness protects the planet. No waste, only a green future."
+                    }
+                }
+            }
+        },
+        "day.134": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "For the planet, for the future, and for the green path\u2014well done on zero waste!"
+                    }
+                }
+            }
+        },
+        "day.135": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every resource saved is a planet protected. Your future is looking green."
+                    }
+                }
+            }
+        },
+        "day.136": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Waste not, want not! Your green future starts with this planet-friendly finish."
+                    }
+                }
+            }
+        },
+        "day.137": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A resource-heavy meal made light by your zero-waste green mission."
+                    }
+                }
+            }
+        },
+        "day.138": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The planet's future is in your hands\u2014and on your very clean, green plate."
+                    }
+                }
+            }
+        },
+        "day.139": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Elite technique! Your mop and sweep have achieved the ultimate polish."
+                    }
+                }
+            }
+        },
+        "day.140": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A legendary clearing! Your sweep is precise and your mop is professional."
+                    }
+                }
+            }
+        },
+        "day.141": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Master the mop! Your clearing technique is the gold standard of the Society."
+                    }
+                }
+            }
+        },
+        "day.142": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The art of the polish. Your technique is elite; your sweep is legendary."
+                    }
+                }
+            }
+        },
+        "day.143": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With a final mop and a steady sweep, you have achieved the ultimate clearing."
+                    }
+                }
+            }
+        },
+        "day.144": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The clearing is complete. Your technique and polish are an inspiration."
+                    }
+                }
+            }
+        },
+        "day.145": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Sweep, mop, and polish. That is the technique of a true Society Titan."
+                    }
+                }
+            }
+        },
+        "day.146": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Spotless work! Welcome."
+                    }
+                }
+            }
+        },
+        "day.147": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A purposeful finish. Well done."
+                    }
+                }
+            }
+        },
+        "day.148": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The harvest is complete."
+                    }
+                }
+            }
+        },
+        "day.149": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef is impressed!"
+                    }
+                }
+            }
+        },
+        "day.150": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Green and clean. Perfect."
+                    }
+                }
+            }
+        },
+        "day.151": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your purpose was clear from the first bite. Take pride in this welcome result."
+                    }
+                }
+            }
+        },
+        "day.152": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A welcome display of discipline! Your pride in the finish matches your purpose."
+                    }
+                }
+            }
+        },
+        "day.153": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We welcome your dedication to the void. A purposeful meal earns pride."
+                    }
+                }
+            }
+        },
+        "day.154": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The pride of the Society is built on members with your purpose. Welcome!"
+                    }
+                }
+            }
+        },
+        "day.155": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "One purpose, one plate, one welcome finish. Take pride in the shine."
+                    }
+                }
+            }
+        },
+        "day.156": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have found your purpose at the bottom of the dish. A prideful welcome to you."
+                    }
+                }
+            }
+        },
+        "day.157": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A welcome addition to our ranks! Your purpose is pure, your pride is high."
+                    }
+                }
+            }
+        },
+        "day.158": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With purposeful intent, you have earned the pride of the table. Welcome."
+                    }
+                }
+            }
+        },
+        "day.159": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every purposeful mouthful brings a welcome sense of pride."
+                    }
+                }
+            }
+        },
+        "day.160": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Welcome to the circle of purpose. Wear your pride like a polished plate."
+                    }
+                }
+            }
+        },
+        "day.161": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your pride is our strength. A purposeful welcome to your new seat."
+                    }
+                }
+            }
+        },
+        "day.162": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A purpose fulfilled is a pride instilled. Welcome to the Society."
+                    }
+                }
+            }
+        },
+        "day.163": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We welcome your appetite. Your purpose was total; your pride is total."
+                    }
+                }
+            }
+        },
+        "day.164": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "To the purposeful eater, we offer a welcome and a badge of pride."
+                    }
+                }
+            }
+        },
+        "day.165": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your purpose at the table reflects your pride in the mission. Welcome!"
+                    }
+                }
+            }
+        },
+        "day.166": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A welcome success! Your purpose led to a prideful conclusion."
+                    }
+                }
+            }
+        },
+        "day.167": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The pride of a job well done. Welcome to a life of purpose."
+                    }
+                }
+            }
+        },
+        "day.168": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With purpose as your guide, we welcome your pride at every meal."
+                    }
+                }
+            }
+        },
+        "day.169": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Welcome! Your purposeful polish is a source of great pride."
+                    }
+                }
+            }
+        },
+        "day.170": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A prideful welcome! Your purpose has left the porcelain bare."
+                    }
+                }
+            }
+        },
+        "day.171": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The Society's purpose is your pride. Welcome to the inner circle."
+                    }
+                }
+            }
+        },
+        "day.172": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A welcome victory for the purposeful diner. Take pride in the void."
+                    }
+                }
+            }
+        },
+        "day.173": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your purpose was unmistakable. Your pride is undeniable. Welcome."
+                    }
+                }
+            }
+        },
+        "day.174": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "We welcome your focus. A purposeful finish is the ultimate pride."
+                    }
+                }
+            }
+        },
+        "day.175": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "One purpose, one welcome, one massive sense of pride. Well done!"
+                    }
+                }
+            }
+        },
+        "day.176": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Superior technique! Your mop and sweep have achieved a legendary polish."
+                    }
+                }
+            }
+        },
+        "day.177": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A professional clearing! Your sweep is masterful and your mop is elite."
+                    }
+                }
+            }
+        },
+        "day.178": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Master the mop! Your clearing technique is a masterclass in polish."
+                    }
+                }
+            }
+        },
+        "day.179": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The art of the polish. Your technique is unmatched; your sweep is swift."
+                    }
+                }
+            }
+        },
+        "day.180": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "With a final mop and a steady sweep, you have perfected the clearing."
+                    }
+                }
+            }
+        },
+        "day.181": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The clearing is total. Your technique and polish set the gold standard."
+                    }
+                }
+            }
+        },
+        "day.182": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Sweep, mop, and polish. This is the technique of a true Titan."
+                    }
+                }
+            }
+        },
+        "day.183": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A flawless mop-up! Your clearing technique leaves a brilliant polish."
+                    }
+                }
+            }
+        },
+        "day.184": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your sweep is a work of art. Elite technique for a total clearing."
+                    }
+                }
+            }
+        },
+        "day.185": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A polish so bright it blinds! Your mop technique is legendary."
+                    }
+                }
+            }
+        },
+        "day.186": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The clearing specialist! Your sweep and mop are perfectly timed."
+                    }
+                }
+            }
+        },
+        "day.187": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Mastery of the sweep. Your polish technique is a Society treasure."
+                    }
+                }
+            }
+        },
+        "day.188": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A mop of pure precision. Your clearing technique is top-tier."
+                    }
+                }
+            }
+        },
+        "day.189": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The polish of a champion. Your sweep technique is beyond reproach."
+                    }
+                }
+            }
+        },
+        "day.190": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A clearing to remember. Your mop and sweep define the Titan way."
+                    }
+                }
+            }
+        },
+        "day.191": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Technical brilliance! Your polish and clearing technique are 10\/10."
+                    }
+                }
+            }
+        },
+        "day.192": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A steady sweep and a perfect mop. Your clearing is absolute."
+                    }
+                }
+            }
+        },
+        "day.193": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The technique of a Titan. Your polish reveals the plate's true soul."
+                    }
+                }
+            }
+        },
+        "day.194": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Master of the clearing. Your mop and sweep leave no doubt."
+                    }
+                }
+            }
+        },
+        "day.195": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A polish that proves the technique. Your sweep is a masterstroke."
+                    }
+                }
+            }
+        },
+        "day.196": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The clearing expert. Your mop technique is efficient and elegant."
+                    }
+                }
+            }
+        },
+        "day.197": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Precision sweep! Your polish and clearing are simply masterful."
+                    }
+                }
+            }
+        },
+        "day.198": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The technique of the void. Your mop and sweep are flawless."
+                    }
+                }
+            }
+        },
+        "day.199": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A clearing of the highest order. Your polish is your signature."
+                    }
+                }
+            }
+        },
+        "day.200": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The sweep of a Sovereign. Your mop technique is the final word."
+                    }
+                }
+            }
+        },
+        "day.201": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The sun shone so this seed could reach your plate; your harvest honors the soil."
+                    }
+                }
+            }
+        },
+        "day.202": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A perfect harvest! You have respected the rain, the seed, and the sun with this finish."
+                    }
+                }
+            }
+        },
+        "day.203": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From the soil up, your harvest is total. The seed and rain thank you."
+                    }
+                }
+            }
+        },
+        "day.204": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The harvest is in! Your seed-to-plate journey ends in a sun-drenched finish."
+                    }
+                }
+            }
+        },
+        "day.205": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Honor the soil. Your harvest of seed and rain is a masterclass in respect."
+                    }
+                }
+            }
+        },
+        "day.206": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The sun provided the power; you provided the harvest. The soil is proud."
+                    }
+                }
+            }
+        },
+        "day.207": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every seed needs rain and sun; every harvest needs a finisher like you."
+                    }
+                }
+            }
+        },
+        "day.208": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A harvest worth the wait. You have honored the soil, seed, and rain today."
+                    }
+                }
+            }
+        },
+        "day.209": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The soil's bounty is your harvest victory. Seed, sun, and rain rejoice!"
+                    }
+                }
+            }
+        },
+        "day.210": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Under the sun, you have reaped a perfect harvest. The seed's journey is complete."
+                    }
+                }
+            }
+        },
+        "day.211": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respect the rain that fed the seed. Your harvest from the soil is spotless."
+                    }
+                }
+            }
+        },
+        "day.212": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A sun-kissed finish! Your harvest honors every seed in the soil."
+                    }
+                }
+            }
+        },
+        "day.213": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The harvest moon rises on a clean plate. Seed, soil, and rain well-spent."
+                    }
+                }
+            }
+        },
+        "day.214": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From seed to harvest, your dedication to the soil is unmistakable."
+                    }
+                }
+            }
+        },
+        "day.215": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The rain and sun did their part; your harvest from the soil did the rest."
+                    }
+                }
+            }
+        },
+        "day.216": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A golden harvest! You have returned the seed's potential to the soil."
+                    }
+                }
+            }
+        },
+        "day.217": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The soil is the start, the harvest is the heart. Seed and sun approved!"
+                    }
+                }
+            }
+        },
+        "day.218": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every rain-fed seed deserves a harvest this clean. Honor the soil."
+                    }
+                }
+            }
+        },
+        "day.219": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The sun's work is done. Your harvest of the seed is a soil-saving win."
+                    }
+                }
+            }
+        },
+        "day.220": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A harvest of gratitude. You have cleared the seed, the soil, and the rain."
+                    }
+                }
+            }
+        },
+        "day.221": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The seed was small, but your harvest is huge. Sun and soil salute you."
+                    }
+                }
+            }
+        },
+        "day.222": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respect the harvest cycle. From rain to seed, your plate is pure soil."
+                    }
+                }
+            }
+        },
+        "day.223": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A sun-bright finish for a seed-rich harvest. The soil is smiling."
+                    }
+                }
+            }
+        },
+        "day.224": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The harvest is your heritage. You have mastered the seed, soil, and rain."
+                    }
+                }
+            }
+        },
+        "day.225": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "One seed, one harvest, one soil-honoring finish. Sun-sational work!"
+                    }
+                }
+            }
+        },
+        "day.226": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef's knife meets its match! Your flavor-sweep from the stove is elite."
+                    }
+                }
+            }
+        },
+        "day.227": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respect the heat! The chef and the stove are honored by your flavor-finish."
+                    }
+                }
+            }
+        },
+        "day.228": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From the stove's heat to the chef's knife, you have captured every flavor."
+                    }
+                }
+            }
+        },
+        "day.229": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef used heat to craft this flavor; your clean plate is the ultimate review."
+                    }
+                }
+            }
+        },
+        "day.230": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A master of the stove! Your flavor-clearing honors the chef's knife."
+                    }
+                }
+            }
+        },
+        "day.231": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The heat was worth it. The chef and the stove salute your flavor-focus."
+                    }
+                }
+            }
+        },
+        "day.232": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every flavor was earned through heat. The chef's knife thanks you."
+                    }
+                }
+            }
+        },
+        "day.233": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef provided the flavor; the stove provided the heat. You provided the finish."
+                    }
+                }
+            }
+        },
+        "day.234": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A flavor-filled win! Your clean plate is a tribute to the chef's stove."
+                    }
+                }
+            }
+        },
+        "day.235": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The heat of the kitchen produced this flavor. You honored the chef in full."
+                    }
+                }
+            }
+        },
+        "day.236": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From the knife's edge to the stove's glow, your flavor-sweep is legendary."
+                    }
+                }
+            }
+        },
+        "day.237": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef is impressed! Your flavor-intake from the stove's heat is 10\/10."
+                    }
+                }
+            }
+        },
+        "day.238": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respect the flavor! The chef, the knife, and the stove are all clear."
+                    }
+                }
+            }
+        },
+        "day.239": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The heat turned flavor into gold. You cleared the chef's stove with pride."
+                    }
+                }
+            }
+        },
+        "day.240": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A flavor-first finish. Your plate is the chef's favorite kind of heat-map."
+                    }
+                }
+            }
+        },
+        "day.241": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef's knife prepared the way, but your flavor-sweep won the day."
+                    }
+                }
+            }
+        },
+        "day.242": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The stove's heat and the chef's heart are reflected in your flavor-finish."
+                    }
+                }
+            }
+        },
+        "day.243": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A flavor-totaling triumph! The chef and the stove thank your appetite."
+                    }
+                }
+            }
+        },
+        "day.244": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The heat was high, the flavor was deep, and the chef's plate is a clean sweep."
+                    }
+                }
+            }
+        },
+        "day.245": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From the stove to the soul, every flavor found its home. Bravo, chef!"
+                    }
+                }
+            }
+        },
+        "day.246": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef's knife was precise; your flavor-clearing was perfect. Heat on!"
+                    }
+                }
+            }
+        },
+        "day.247": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The stove sizzled for this flavor. The chef is proud of your finish."
+                    }
+                }
+            }
+        },
+        "day.248": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A flavor-clearing force! You have honored the heat, the chef, and the stove."
+                    }
+                }
+            }
+        },
+        "day.249": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The chef's best flavor deserves a finish this heat-strong. Well done!"
+                    }
+                }
+            }
+        },
+        "day.250": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From the stove's fire to the flavour's desire\u2014the chef salutes you."
+                    }
+                }
+            }
+        },
+        "day.251": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A green choice for a better future! Your zero-waste finish saves the planet's resources."
+                    }
+                }
+            }
+        },
+        "day.252": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The planet is lighter today. Your future is green because you chose to end waste."
+                    }
+                }
+            }
+        },
+        "day.253": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respect every resource. Your green heart and zero-waste habit protect our future."
+                    }
+                }
+            }
+        },
+        "day.254": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The future is built on green choices. You have saved a resource for the planet's sake."
+                    }
+                }
+            }
+        },
+        "day.255": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Waste not, want not! Your green finish is a resource for a brighter planet-wide future."
+                    }
+                }
+            }
+        },
+        "day.256": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every resource you save is a planet protected. Your future is looking green and clean."
+                    }
+                }
+            }
+        },
+        "day.257": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A green victory! You have turned potential waste into a resource for our future planet."
+                    }
+                }
+            }
+        },
+        "day.258": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The future is in your hands\u2014and on your green plate. No waste, only planet pride."
+                    }
+                }
+            }
+        },
+        "day.259": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your resourcefulness is a gift to the planet. A green future starts with zero waste."
+                    }
+                }
+            }
+        },
+        "day.260": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "For the planet, for the future, and for the green path\u2014well done on ending waste!"
+                    }
+                }
+            }
+        },
+        "day.261": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A resource-heavy meal made light by your zero-waste green mission for the future."
+                    }
+                }
+            }
+        },
+        "day.262": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The planet's resources are precious. Your green finish ensures a waste-free future."
+                    }
+                }
+            }
+        },
+        "day.263": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Zero waste is the ultimate resource. The planet stays green because of your future vision."
+                    }
+                }
+            }
+        },
+        "day.264": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Our future is green. Every resource you finish protects our planet from waste."
+                    }
+                }
+            }
+        },
+        "day.265": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Respect the planet. By avoiding waste, you secure a green resource for the future."
+                    }
+                }
+            }
+        },
+        "day.266": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate is a resource for a green planet. No waste, only a bright future ahead."
+                    }
+                }
+            }
+        },
+        "day.267": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The future of the planet is green. You have guarded our resources by eliminating waste."
+                    }
+                }
+            }
+        },
+        "day.268": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A green resource for a gold-standard future. The planet thanks you for zero waste."
+                    }
+                }
+            }
+        },
+        "day.269": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The planet's future is cleaner today. Your green resource management ends all waste."
+                    }
+                }
+            }
+        },
+        "day.270": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Waste is a ghost of the past. Your green future is built on planet-saving resources."
+                    }
+                }
+            }
+        },
+        "day.271": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every green bite is a resource for the future. The planet is waste-free in your care."
+                    }
+                }
+            }
+        },
+        "day.272": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The future is calling, and it's green. You have saved the planet's resources from waste."
+                    }
+                }
+            }
+        },
+        "day.273": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A planet-sized thank you! Your green future is secured by this resource-rich finish."
+                    }
+                }
+            }
+        },
+        "day.274": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Zero waste, total green! You have protected the planet's resources for the future."
+                    }
+                }
+            }
+        },
+        "day.275": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The resource of the future is a clean plate. Your green planet-focus ends all waste."
+                    }
+                }
+            }
+        },
+        "day.276": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "For a green tomorrow! Your planet-first finish keeps waste out of our future."
+                    }
+                }
+            }
+        },
+        "day.277": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The planet's resources are in good hands. Your green future is waste-free."
+                    }
+                }
+            }
+        },
+        "day.278": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A future worth finishing. Your green resource usage saves the planet from waste."
+                    }
+                }
+            }
+        },
+        "day.279": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Zero waste means a green future. You have honoured the planet and its resources."
+                    }
+                }
+            }
+        },
+        "day.280": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The planet is your partner. Your green future starts with every resource finished."
+                    }
+                }
+            }
+        },
+        "day.281": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Waste belongs to yesterday. Your green future is a planet-wide resource win."
+                    }
+                }
+            }
+        },
+        "day.282": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every resource on this planet counts. Your green finish is a future without waste."
+                    }
+                }
+            }
+        },
+        "day.283": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The future is green-lit! Your planet-saving resource focus leaves no waste."
+                    }
+                }
+            }
+        },
+        "day.284": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A green future for all. You have guarded the planet's resources by ending waste."
+                    }
+                }
+            }
+        },
+        "day.285": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The planet's future depends on this green habit. No waste, only resource respect."
+                    }
+                }
+            }
+        },
+        "day.286": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Zero waste is the green standard. You have protected the planet's future resources."
+                    }
+                }
+            }
+        },
+        "day.287": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The future is a green plate. You have saved a planet-sized resource from waste."
+                    }
+                }
+            }
+        },
+        "day.288": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every resource finished is a planet loved. Your green future has no waste."
+                    }
+                }
+            }
+        },
+        "day.289": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The planet's future is bright and green. You have mastered the resource of zero waste."
+                    }
+                }
+            }
+        },
+        "day.290": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A green resource for a great future. The planet is proud of your zero-waste win."
+                    }
+                }
+            }
+        },
+        "day.291": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Waste is gone, green is on! Your future planet thanks you for this resource-sweep."
+                    }
+                }
+            }
+        },
+        "day.292": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The planet's resources are your future. Your green finish leaves zero waste."
+                    }
+                }
+            }
+        },
+        "day.293": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A green future starts here. You have protected the planet's resources from waste."
+                    }
+                }
+            }
+        },
+        "day.294": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The future is a resource we share. Your green planet-focus ends all waste."
+                    }
+                }
+            }
+        },
+        "day.295": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Zero waste for a green future. You have honoured the planet's resources today."
+                    }
+                }
+            }
+        },
+        "day.296": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The planet's future is a green one. Your resource-rich finish leaves no waste."
+                    }
+                }
+            }
+        },
+        "day.297": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A green future is a clean future. You have saved the planet's resources from waste."
+                    }
+                }
+            }
+        },
+        "day.298": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The planet's resources are safe. Your green future is a waste-free victory."
+                    }
+                }
+            }
+        },
+        "day.299": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Zero waste, planet-first! Your green future is a resource for all."
+                    }
+                }
+            }
+        },
+        "day.300": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The future is green and golden. Your planet-saving resource-sweep ends all waste."
+                    }
+                }
+            }
+        },
+        "day.301": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A sovereign finish! You have mastered the vessel and achieved the great beyond of dining."
+                    }
+                }
+            }
+        },
+        "day.302": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The porcelain is a mirror of your soul. A vibrant victory in the great beyond."
+                    }
+                }
+            }
+        },
+        "day.303": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Welcome to the infinite intake. Your technique has transcended the ordinary vessel."
+                    }
+                }
+            }
+        },
+        "day.304": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The void is valid! You have reached the zenith of the great beyond today."
+                    }
+                }
+            }
+        },
+        "day.305": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A luminous lunch! You have shown the vessel the respect of a sovereign."
+                    }
+                }
+            }
+        },
+        "day.306": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "From the kiln to the clearing, your mastery of the vessel is absolute."
+                    }
+                }
+            }
+        },
+        "day.307": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The great beyond is now your home. You have conquered the vessel in full."
+                    }
+                }
+            }
+        },
+        "day.308": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A flawless follow-through! The vessel is pristine, and your future is bright."
+                    }
+                }
+            }
+        },
+        "day.309": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You are the absolver of the vessel. Welcome to the eternal finish."
+                    }
+                }
+            }
+        },
+        "day.310": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The glaze is revealed! A sovereign act in the great beyond of the meal."
+                    }
+                }
+            }
+        },
+        "day.311": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your intake is infinite, your vessel is vacant. Truly magnificent."
+                    }
+                }
+            }
+        },
+        "day.312": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A stellar swallow! You have reached the omega of the vessel's purpose."
+                    }
+                }
+            }
+        },
+        "day.313": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is venerated. You have crossed into the great beyond of the Society."
+                    }
+                }
+            }
+        },
+        "day.314": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A total triumph over the tray. Your sovereign status is confirmed."
+                    }
+                }
+            }
+        },
+        "day.315": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The ceramic is celebrated. You have found the zenith of the great beyond."
+                    }
+                }
+            }
+        },
+        "day.316": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "An exquisite emptying! The vessel thanks the sovereign of the table."
+                    }
+                }
+            }
+        },
+        "day.317": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The enamel is expertly cleared. Welcome to the infinite ranks."
+                    }
+                }
+            }
+        },
+        "day.318": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A brilliant bowl-behavior! You have mastered the vessel and the void."
+                    }
+                }
+            }
+        },
+        "day.319": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The great beyond beckons. You have left the vessel in mirror-like condition."
+                    }
+                }
+            }
+        },
+        "day.320": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A noble nibbling that led to a sovereign sweep. The vessel is bare."
+                    }
+                }
+            }
+        },
+        "day.321": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is vindicated. You have reached the ultimate in the great beyond."
+                    }
+                }
+            }
+        },
+        "day.322": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A kinetic kindness to the kitchen. The vessel is spotless once more."
+                    }
+                }
+            }
+        },
+        "day.323": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The kiln-keeper salutes you. A sovereign finish in the great beyond."
+                    }
+                }
+            }
+        },
+        "day.324": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your vessel is victorious. You have achieved the absolute finish today."
+                    }
+                }
+            }
+        },
+        "day.325": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A radiant remain-free result! The vessel is a sovereign's throne."
+                    }
+                }
+            }
+        },
+        "day.326": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The great beyond is reached. You have swept the vessel into legend."
+                    }
+                }
+            }
+        },
+        "day.327": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A just and joyful joining. The vessel is immaculate in your hands."
+                    }
+                }
+            }
+        },
+        "day.328": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel's vow is kept. A sovereign performance in the void."
+                    }
+                }
+            }
+        },
+        "day.329": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A peerless plate-performance! You have found the heart of the great beyond."
+                    }
+                }
+            }
+        },
+        "day.330": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is vacated. Your sovereign technique is a masterpiece."
+                    }
+                }
+            }
+        },
+        "day.331": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A supreme spotless success! The great beyond is yours to rule."
+                    }
+                }
+            }
+        },
+        "day.332": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is vividly clean. A sovereign sign of a meal well-spent."
+                    }
+                }
+            }
+        },
+        "day.333": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A mighty mop-up! You have crossed the threshold into the great beyond."
+                    }
+                }
+            }
+        },
+        "day.334": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is valorous. You have earned the sovereign badge of the Society."
+                    }
+                }
+            }
+        },
+        "day.335": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A definitive dining! The great beyond has never looked so spotless."
+                    }
+                }
+            }
+        },
+        "day.336": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel's victory is yours. A sovereign sweep of the infinite."
+                    }
+                }
+            }
+        },
+        "day.337": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A wonderful wiping! You have reached the pinnacle of the great beyond."
+                    }
+                }
+            }
+        },
+        "day.338": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is venerable. Your sovereign finish is extraordinary."
+                    }
+                }
+            }
+        },
+        "day.339": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A luminous level of clearing. The great beyond is proud of you."
+                    }
+                }
+            }
+        },
+        "day.340": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is valiant. A sovereign start to an eternal habit."
+                    }
+                }
+            }
+        },
+        "day.341": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A total intake! You have mastered the vessel and the void."
+                    }
+                }
+            }
+        },
+        "day.342": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The great beyond is glorious. You have left the vessel glistening."
+                    }
+                }
+            }
+        },
+        "day.343": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A heroic hunger! The vessel is a sovereign's masterpiece."
+                    }
+                }
+            }
+        },
+        "day.344": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is virtuous. You have found the end of the great beyond."
+                    }
+                }
+            }
+        },
+        "day.345": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A magnificent mop! The sovereign of the sauce has arrived."
+                    }
+                }
+            }
+        },
+        "day.346": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The great beyond is grateful. You have cleared the vessel with grace."
+                    }
+                }
+            }
+        },
+        "day.347": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A stellar sweep! The vessel is spotless; the sovereign is satisfied."
+                    }
+                }
+            }
+        },
+        "day.348": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is vibrant. You have achieved the infinite finish today."
+                    }
+                }
+            }
+        },
+        "day.349": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A brilliant bowl-polish! Welcome to the sovereign circle."
+                    }
+                }
+            }
+        },
+        "day.350": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The great beyond is bright. You have mastered the vessel's true purpose."
+                    }
+                }
+            }
+        },
+        "day.351": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A noble finish! The vessel is empty, the sovereign is full."
+                    }
+                }
+            }
+        },
+        "day.352": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is vindicated. A sovereign act in the great beyond."
+                    }
+                }
+            }
+        },
+        "day.353": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A peerless polish! You have reached the zenith of the infinite."
+                    }
+                }
+            }
+        },
+        "day.354": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The great beyond is grand. You have left the vessel in perfect state."
+                    }
+                }
+            }
+        },
+        "day.355": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A supreme sweep! The sovereign of the spotless has spoken."
+                    }
+                }
+            }
+        },
+        "day.356": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is vacant. You have mastered the great beyond's technique."
+                    }
+                }
+            }
+        },
+        "day.357": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A mighty mop! The sovereign of the surface has conquered."
+                    }
+                }
+            }
+        },
+        "day.358": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The great beyond is limitless. You have cleared the vessel with ease."
+                    }
+                }
+            }
+        },
+        "day.359": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A definitive dish-clearing! The sovereign of the society salutes you."
+                    }
+                }
+            }
+        },
+        "day.360": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The vessel is victorious. You have reached the omega point of dining."
+                    }
+                }
+            }
+        },
+        "day.361": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A wonderful wash-free finish! The great beyond is your playground."
+                    }
+                }
+            }
+        },
+        "day.362": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The sovereign sweep is complete. The vessel is immaculate."
+                    }
+                }
+            }
+        },
+        "day.363": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A luminous legacy! You have mastered the vessel and the void."
+                    }
+                }
+            }
+        },
+        "day.364": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The great beyond is boundless. Your vessel is bare and bright."
+                    }
+                }
+            }
+        },
+        "day.365": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "A total triumph of the teeth. The sovereign of the supper is here."
+                    }
+                }
+            }
+        },
+        "day.366": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The 366th finish! You have cleared the vessel through time and eternity."
+                    }
+                }
+            }
+        }
+    },
+    "version": "1.1"
+}

@@ -1,0 +1,570 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "active" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Active"
+          }
+        }
+      }
+    },
+    "certificate.award" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CERTIFICATE OF AWARD"
+          }
+        }
+      }
+    },
+    "certify.that" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This is to certify that"
+          }
+        }
+      }
+    },
+    "choose.profile" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose member"
+          }
+        }
+      }
+    },
+    "commitment.of" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "to fulfill the commitment of"
+          }
+        }
+      }
+    },
+    "direct" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Direct"
+          }
+        }
+      }
+    },
+    "entry.at" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An entry has been recorded at %@"
+          }
+        }
+      }
+    },
+    "error.creating.new.member" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error while creating new member"
+          }
+        }
+      }
+    },
+    "for" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For"
+          }
+        }
+      }
+    },
+    "Formal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formal"
+          }
+        }
+      }
+    },
+    "I." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I."
+          }
+        }
+      }
+    },
+    "II." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "II."
+          }
+        }
+      }
+    },
+    "III." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "III."
+          }
+        }
+      }
+    },
+    "IV." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IV."
+          }
+        }
+      }
+    },
+    "ledger.day.difficulty.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Difficulty level:"
+          }
+        }
+      }
+    },
+    "ledger.day.image.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image:"
+          }
+        }
+      }
+    },
+    "ledger.day.progress.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Progress:"
+          }
+        }
+      }
+    },
+    "ledger.day.time.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At:"
+          }
+        }
+      }
+    },
+    "message.badge.title.award" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Award Unlocked"
+          }
+        }
+      }
+    },
+    "message.badge.title.entry" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entry Added"
+          }
+        }
+      }
+    },
+    "message.badge.title.next.challenge" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next Challenge"
+          }
+        }
+      }
+    },
+    "message.badge.title.service.message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System message"
+          }
+        }
+      }
+    },
+    "message.clear.cache" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cache has been cleared"
+          }
+        }
+      }
+    },
+    "message.purchase.subscription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subscription has been purchased"
+          }
+        }
+      }
+    },
+    "message.restore.nothing.subscription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing to restore"
+          }
+        }
+      }
+    },
+    "message.restore.subscription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subscription has been restored"
+          }
+        }
+      }
+    },
+    "mysterious" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mysterious"
+          }
+        }
+      }
+    },
+    "next.appointment.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next appointment in"
+          }
+        }
+      }
+    },
+    "next.challenge" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please proceed"
+          }
+        }
+      }
+    },
+    "profile.create.form.name.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "profile.create.form.save.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "profile.create.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Join new member"
+          }
+        }
+      }
+    },
+    "settings.additional" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Additional"
+          }
+        }
+      }
+    },
+    "settings.difficulty.level.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Difficulty level"
+          }
+        }
+      }
+    },
+    "settings.haptic.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haptic Feedback"
+          }
+        }
+      }
+    },
+    "settings.main" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Main"
+          }
+        }
+      }
+    },
+    "settings.oath" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Oath of the Immaculate Platter"
+          }
+        }
+      }
+    },
+    "settings.oath.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I, **%@**, do solemnly pledge my fork and my knife to the pursuit of the spotless finish.\nI vow to honour the hands that sowed, the earth that grew, and the chef who prepared every morsel set before me.\nWith a grateful heart and a steady appetite, I promise to leave no trace, to waste no crumb, and to uphold the dignity of the Clean Plate Society at every seating, from this day forward.\n"
+          }
+        }
+      }
+    },
+    "settings.sticker.text" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sticker"
+          }
+        }
+      }
+    },
+    "settings.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "settings.theme.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theme"
+          }
+        }
+      }
+    },
+    "signature" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signature:"
+          }
+        }
+      }
+    },
+    "tabs.audience" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audience"
+          }
+        }
+      }
+    },
+    "tabs.awards" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Awards"
+          }
+        }
+      }
+    },
+    "tabs.ledger" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ledger"
+          }
+        }
+      }
+    },
+    "tabs.rules" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rules"
+          }
+        }
+      }
+    },
+    "tabs.stickers" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stickers"
+          }
+        }
+      }
+    },
+    "tabs.wisdom" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wisdom"
+          }
+        }
+      }
+    },
+    "title.of" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "has successfully earned the title of"
+          }
+        }
+      }
+    },
+    "V." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V."
+          }
+        }
+      }
+    },
+    "VI." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VI."
+          }
+        }
+      }
+    },
+    "warm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warm"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

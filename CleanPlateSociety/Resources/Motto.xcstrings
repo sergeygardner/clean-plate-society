@@ -1,0 +1,4032 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "day.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every Crumb a Commitment, Every Plate a Promise!"
+          }
+        }
+      }
+    },
+    "day.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omnis Mica, Omne Votum"
+          }
+        }
+      }
+    },
+    "day.3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honour the Harvest, Leave No Trace!"
+          }
+        }
+      }
+    },
+    "day.4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Spotless Plate is a Grateful Heart!"
+          }
+        }
+      }
+    },
+    "day.5" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Pursuit of the Perfect Finish!"
+          }
+        }
+      }
+    },
+    "day.6" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ab Ovo Usque Ad Mala (From the egg to the apples)!"
+          }
+        }
+      }
+    },
+    "day.7" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omnia Devorentur (Let all be devoured)!"
+          }
+        }
+      }
+    },
+    "day.8" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waste Not, Want Not, Finish the Lot!"
+          }
+        }
+      }
+    },
+    "day.9" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respecting the Maker, One Bite at a Time!"
+          }
+        }
+      }
+    },
+    "day.10" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Clean Plate: Our Contribution to a Fuller World!"
+          }
+        }
+      }
+    },
+    "day.11" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindful Portions, Spotless Plates!"
+          }
+        }
+      }
+    },
+    "day.12" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carbe Diem: Seize the Bread (and the Crumbs)!"
+          }
+        }
+      }
+    },
+    "day.13" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I Came, I Saw, I Ate It All!"
+          }
+        }
+      }
+    },
+    "day.14" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Found Love in a Hopeless Plate!"
+          }
+        }
+      }
+    },
+    "day.15" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Crumb Left Behind!"
+          }
+        }
+      }
+    },
+    "day.16" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Plate is the Canvas, the Fork is the Brush, the Finish is the Art!"
+          }
+        }
+      }
+    },
+    "day.17" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finish Strong!"
+          }
+        }
+      }
+    },
+    "day.18" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plates Up!"
+          }
+        }
+      }
+    },
+    "day.19" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clean Sweep!"
+          }
+        }
+      }
+    },
+    "day.20" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Polished Performance!"
+          }
+        }
+      }
+    },
+    "day.21" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "May your hunger be hearty and your porcelain be bare!"
+          }
+        }
+      }
+    },
+    "day.22" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Polished to a Shine"
+          }
+        }
+      }
+    },
+    "day.23" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every Crumb Conquered"
+          }
+        }
+      }
+    },
+    "day.24" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauce Successfully Mopped"
+          }
+        }
+      }
+    },
+    "day.25" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Finest Compliment is an Empty Plate!"
+          }
+        }
+      }
+    },
+    "day.26" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Art is Created in the Kitchen; Respect is Shown at the Table!"
+          }
+        }
+      }
+    },
+    "day.27" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Masterpiece Deserves to be Consumed, Not Cast Away!"
+          }
+        }
+      }
+    },
+    "day.28" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "True Taste Leaves No Trace!"
+          }
+        }
+      }
+    },
+    "day.29" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zero Waste, Full Taste!"
+          }
+        }
+      }
+    },
+    "day.30" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respect the Sower, Honor the Soil, Finish the Toil!"
+          }
+        }
+      }
+    },
+    "day.31" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sustainability Starts at the Bottom of Your Bowl!"
+          }
+        }
+      }
+    },
+    "day.32" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saving the Planet, One Polished Plate at a Time!"
+          }
+        }
+      }
+    },
+    "day.33" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clean Plate, Clear Conscience!"
+          }
+        }
+      }
+    },
+    "day.34" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bite by Bite, Doing it Right!"
+          }
+        }
+      }
+    },
+    "day.35" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full Belly, Empty Dish!"
+          }
+        }
+      }
+    },
+    "day.36" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To the Last Crumb!"
+          }
+        }
+      }
+    },
+    "day.37" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dishwasher Approved: We Saved You a Scrub!"
+          }
+        }
+      }
+    },
+    "day.38" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Plate is My Canvas; My Fork is the Eraser!"
+          }
+        }
+      }
+    },
+    "day.39" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Morsel Left Behind!"
+          }
+        }
+      }
+    },
+    "day.40" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leaving it Spotless Since [Year of Founding]!"
+          }
+        }
+      }
+    },
+    "day.41" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Platea Pura, Mens Sana!"
+          }
+        }
+      }
+    },
+    "day.42" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pure plate, healthy mind!"
+          }
+        }
+      }
+    },
+    "day.43" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consummatum Est!"
+          }
+        }
+      }
+    },
+    "day.44" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is finished!"
+          }
+        }
+      }
+    },
+    "day.45" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nulla Reliquia!"
+          }
+        }
+      }
+    },
+    "day.46" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No remains/leftovers!"
+          }
+        }
+      }
+    },
+    "day.47" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completion is the Highest Form of Appreciation!"
+          }
+        }
+      }
+    },
+    "day.48" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To Finish is to Flourish!"
+          }
+        }
+      }
+    },
+    "day.49" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Full Stomach, A Fulfilled Promise!"
+          }
+        }
+      }
+    },
+    "day.50" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Cycle of the Meal Ends Only at the Bottom of the Bowl!"
+          }
+        }
+      }
+    },
+    "day.51" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear the Field! Clean the Plate!"
+          }
+        }
+      }
+    },
+    "day.52" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mission: Zero Remains!"
+          }
+        }
+      }
+    },
+    "day.53" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Crumb Left, No Regret Kept!"
+          }
+        }
+      }
+    },
+    "day.54" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Final Bite is the Only Bite That Matters!"
+          }
+        }
+      }
+    },
+    "day.55" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eat Every Grain; Honor Every Rain!"
+          }
+        }
+      }
+    },
+    "day.56" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From Soil to Soul, We Clear the Bowl!"
+          }
+        }
+      }
+    },
+    "day.57" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratitude is a Polished Plate!"
+          }
+        }
+      }
+    },
+    "day.58" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respect the Toil, Leave Nothing to Spoil!"
+          }
+        }
+      }
+    },
+    "day.59" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Be a Mate, Clean Your Plate!"
+          }
+        }
+      }
+    },
+    "day.60" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't be a Quitter, Clean the Platter!"
+          }
+        }
+      }
+    },
+    "day.61" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lick the Spoon, Empty Soon!"
+          }
+        }
+      }
+    },
+    "day.62" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Best Review is a Dish Like New!"
+          }
+        }
+      }
+    },
+    "day.63" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Perfection of the Void!"
+          }
+        }
+      }
+    },
+    "day.64" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masters of the Mop-Up!"
+          }
+        }
+      }
+    },
+    "day.65" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sovereigns of the Spotless Surface!"
+          }
+        }
+      }
+    },
+    "day.66" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Last Word in Dining!"
+          }
+        }
+      }
+    },
+    "day.67" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respect the Seed, Finish the Feed!"
+          }
+        }
+      }
+    },
+    "day.68" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spring Bounty, Zero Waste!"
+          }
+        }
+      }
+    },
+    "day.69" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Leaf, Clean Plate!"
+          }
+        }
+      }
+    },
+    "day.70" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Earth Gave, The Plate Cleared!"
+          }
+        }
+      }
+    },
+    "day.71" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Green Fields, Gold Finishes!"
+          }
+        }
+      }
+    },
+    "day.72" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From Bud to Bite, Finish it Right!"
+          }
+        }
+      }
+    },
+    "day.73" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honour the Harvest of the New Sun!"
+          }
+        }
+      }
+    },
+    "day.74" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Fresh Start, A Finished Plate!"
+          }
+        }
+      }
+    },
+    "day.75" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blooming Appetite, Spotless Sight!"
+          }
+        }
+      }
+    },
+    "day.76" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nature's Gift, The Diner's Lift!"
+          }
+        }
+      }
+    },
+    "day.77" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sun-Kissed and Plate-Cleared!"
+          }
+        }
+      }
+    },
+    "day.78" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Summer Feast: No Crumb Left Behind!"
+          }
+        }
+      }
+    },
+    "day.79" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abundance is a Responsibility!"
+          }
+        }
+      }
+    },
+    "day.80" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Golden Sun, Polished Fun!"
+          }
+        }
+      }
+    },
+    "day.81" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Heat of the Kitchen, The Cool of the Clean Plate!"
+          }
+        }
+      }
+    },
+    "day.82" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Savour the Season, Finish for a Reason!"
+          }
+        }
+      }
+    },
+    "day.83" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Long Days, Empty Trays!"
+          }
+        }
+      }
+    },
+    "day.84" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Summer's Best, Put to the Test!"
+          }
+        }
+      }
+    },
+    "day.85" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ripe and Ready, Hand is Steady!"
+          }
+        }
+      }
+    },
+    "day.86" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Picnic's End is the Society's Beginning!"
+          }
+        }
+      }
+    },
+    "day.87" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Winter's Chill, The Plate we Fill (and Clear)!"
+          }
+        }
+      }
+    },
+    "day.88" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grateful for the Grain!"
+          }
+        }
+      }
+    },
+    "day.89" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stored for the Season, Eaten for the Soul!"
+          }
+        }
+      }
+    },
+    "day.90" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frost on the Window, Polish on the Plate!"
+          }
+        }
+      }
+    },
+    "day.91" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Warmth of a Full Belly!"
+          }
+        }
+      }
+    },
+    "day.92" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harvest Home, Plate Clean!"
+          }
+        }
+      }
+    },
+    "day.93" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To the Last Root!"
+          }
+        }
+      }
+    },
+    "day.94" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Winter's Discipline, The Society's Pride!"
+          }
+        }
+      }
+    },
+    "day.95" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comfort Found in a Cleared Bowl!"
+          }
+        }
+      }
+    },
+    "day.96" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Cold Night, A Finished Bite!"
+          }
+        }
+      }
+    },
+    "day.97" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Routine is the Foundation of the Finish!"
+          }
+        }
+      }
+    },
+    "day.98" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every Breakfast, A New Vow!"
+          }
+        }
+      }
+    },
+    "day.99" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lunchtime Loyalty!"
+          }
+        }
+      }
+    },
+    "day.100" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinner is the Final Exam!"
+          }
+        }
+      }
+    },
+    "day.101" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consistent Cleaning!"
+          }
+        }
+      }
+    },
+    "day.102" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Habit of the Hearty!"
+          }
+        }
+      }
+    },
+    "day.103" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porcelain Discipline!"
+          }
+        }
+      }
+    },
+    "day.104" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Daily Devotion!"
+          }
+        }
+      }
+    },
+    "day.105" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Strong, Finish Spotless!"
+          }
+        }
+      }
+    },
+    "day.106" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Morning Polish!"
+          }
+        }
+      }
+    },
+    "day.107" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Midday Mastery!"
+          }
+        }
+      }
+    },
+    "day.108" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twilight Triumph!"
+          }
+        }
+      }
+    },
+    "day.109" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Three Meals, Three Successes!"
+          }
+        }
+      }
+    },
+    "day.110" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Triple Crown of Dining!"
+          }
+        }
+      }
+    },
+    "day.111" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Day Off for the Appetite!"
+          }
+        }
+      }
+    },
+    "day.112" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Integrity of the Fork!"
+          }
+        }
+      }
+    },
+    "day.113" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Clean Sweep Every 24 Hours!"
+          }
+        }
+      }
+    },
+    "day.114" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Sun Sets on a Spotless Surface!"
+          }
+        }
+      }
+    },
+    "day.115" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dine with Purpose!"
+          }
+        }
+      }
+    },
+    "day.116" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Ritual of the Remnant-Free!"
+          }
+        }
+      }
+    },
+    "day.117" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Farmer Sweated, The Member Ate!"
+          }
+        }
+      }
+    },
+    "day.118" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kitchen Sweat, Table Respect!"
+          }
+        }
+      }
+    },
+    "day.119" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To Waste is to Insult the Cook!"
+          }
+        }
+      }
+    },
+    "day.120" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Clean Plate is a Silent 'Thank You'!"
+          }
+        }
+      }
+    },
+    "day.121" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honour the Hands that Knead!"
+          }
+        }
+      }
+    },
+    "day.122" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Field's Hard Work, The Diner's Joy!"
+          }
+        }
+      }
+    },
+    "day.123" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chef's Pride, Member's Inside!"
+          }
+        }
+      }
+    },
+    "day.124" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From the Soil to the Society!"
+          }
+        }
+      }
+    },
+    "day.125" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respect the Labour, Savour the Flavour!"
+          }
+        }
+      }
+    },
+    "day.126" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Final Compliment!"
+          }
+        }
+      }
+    },
+    "day.127" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crumb Crusher!"
+          }
+        }
+      }
+    },
+    "day.128" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauce Slayer!"
+          }
+        }
+      }
+    },
+    "day.129" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Porcelain Polisher!"
+          }
+        }
+      }
+    },
+    "day.130" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wipe it Wild!"
+          }
+        }
+      }
+    },
+    "day.131" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eat! Clean! Repeat!"
+          }
+        }
+      }
+    },
+    "day.132" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Empty Edge!"
+          }
+        }
+      }
+    },
+    "day.133" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bowl Boldly!"
+          }
+        }
+      }
+    },
+    "day.134" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fork Forever!"
+          }
+        }
+      }
+    },
+    "day.135" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mop the Map!"
+          }
+        }
+      }
+    },
+    "day.136" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Final Frontier: The Bottom of the Bowl!"
+          }
+        }
+      }
+    },
+    "day.137" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Leap in Time, A Legacy of the Last Bite!"
+          }
+        }
+      }
+    },
+    "day.138" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A vow taken, a meal forsaken!!! never!"
+          }
+        }
+      }
+    },
+    "day.139" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My daily task is a polished platter!"
+          }
+        }
+      }
+    },
+    "day.140" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The pledge of the plate is my bond!"
+          }
+        }
+      }
+    },
+    "day.141" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A duty to the cook, a clean look for the dish!"
+          }
+        }
+      }
+    },
+    "day.142" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One goal: a surface of glass!"
+          }
+        }
+      }
+    },
+    "day.143" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The vow of the fork is sacred!"
+          }
+        }
+      }
+    },
+    "day.144" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A task completed with every bite!"
+          }
+        }
+      }
+    },
+    "day.145" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I pledge my appetite to the cause!"
+          }
+        }
+      }
+    },
+    "day.146" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dining is a duty, finishing is a beauty!"
+          }
+        }
+      }
+    },
+    "day.147" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The ultimate goal is a crumb-free zone!"
+          }
+        }
+      }
+    },
+    "day.148" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A vow to the bowl!"
+          }
+        }
+      }
+    },
+    "day.149" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The task of the table is mine to master!"
+          }
+        }
+      }
+    },
+    "day.150" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A pledge to the pantry: no waste!"
+          }
+        }
+      }
+    },
+    "day.151" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My duty ends when the porcelain shines!"
+          }
+        }
+      }
+    },
+    "day.152" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A goal reached three times a day!"
+          }
+        }
+      }
+    },
+    "day.153" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The vow of the veteran diner!"
+          }
+        }
+      }
+    },
+    "day.154" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A task for the teeth, a win for the world!"
+          }
+        }
+      }
+    },
+    "day.155" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I pledge to find the bottom of the bowl!"
+          }
+        }
+      }
+    },
+    "day.156" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My duty is delicious!"
+          }
+        }
+      }
+    },
+    "day.157" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The goal is clear; the plate is too!"
+          }
+        }
+      }
+    },
+    "day.158" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A vow made in hunger, kept in fullness!"
+          }
+        }
+      }
+    },
+    "day.159" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The task of the tines!"
+          }
+        }
+      }
+    },
+    "day.160" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A pledge of persistence!"
+          }
+        }
+      }
+    },
+    "day.161" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duty calls at the dinner bell!"
+          }
+        }
+      }
+    },
+    "day.162" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One goal, one plate, one win!"
+          }
+        }
+      }
+    },
+    "day.163" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The vow of the velvet napkin!"
+          }
+        }
+      }
+    },
+    "day.164" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A task worth tasting!"
+          }
+        }
+      }
+    },
+    "day.165" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I pledge my spoon to the moon (of the plate)!"
+          }
+        }
+      }
+    },
+    "day.166" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A duty to the delicious!"
+          }
+        }
+      }
+    },
+    "day.167" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The goal of the gourmet!"
+          }
+        }
+      }
+    },
+    "day.168" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A vow to leave no leaf behind!"
+          }
+        }
+      }
+    },
+    "day.169" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The task of the tidy eater!"
+          }
+        }
+      }
+    },
+    "day.170" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A pledge to the pot!"
+          }
+        }
+      }
+    },
+    "day.171" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duty is served on a saucer!"
+          }
+        }
+      }
+    },
+    "day.172" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The goal is the gold at the bottom!"
+          }
+        }
+      }
+    },
+    "day.173" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A vow of the vibrant diner!"
+          }
+        }
+      }
+    },
+    "day.174" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The task of the tireless tongue!"
+          }
+        }
+      }
+    },
+    "day.175" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I pledge to the platter!"
+          }
+        }
+      }
+    },
+    "day.176" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duty before dessert (and during)!"
+          }
+        }
+      }
+    },
+    "day.177" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The goal of the grateful guest!"
+          }
+        }
+      }
+    },
+    "day.178" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Goal is the Polish"
+          }
+        }
+      }
+    },
+    "day.179" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Pledge of the Polished"
+          }
+        }
+      }
+    },
+    "day.180" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Duty Done!"
+          }
+        }
+      }
+    },
+    "day.181" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respect the soil, finish the broil!"
+          }
+        }
+      }
+    },
+    "day.182" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From the stove to the soul, we clear the bowl!"
+          }
+        }
+      }
+    },
+    "day.183" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The pan was hot, now eat the lot!"
+          }
+        }
+      }
+    },
+    "day.184" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honour the plough, finish it now!"
+          }
+        }
+      }
+    },
+    "day.185" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It started with a seed, it ends with my deed!"
+          }
+        }
+      }
+    },
+    "day.186" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A pinch of salt, a meal without fault!"
+          }
+        }
+      }
+    },
+    "day.187" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The soil's hard work is my reward!"
+          }
+        }
+      }
+    },
+    "day.188" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bless the stove, eat the grove!"
+          }
+        }
+      }
+    },
+    "day.189" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sizzled in the pan, finished by the man/woman!"
+          }
+        }
+      }
+    },
+    "day.190" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The plough did its part; I do mine!"
+          }
+        }
+      }
+    },
+    "day.191" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From a single seed to a satisfied need!"
+          }
+        }
+      }
+    },
+    "day.192" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salt of the earth, plate of true worth!"
+          }
+        }
+      }
+    },
+    "day.193" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The soil provides, the member decides!"
+          }
+        }
+      }
+    },
+    "day.194" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The stove gave life to the meal!"
+          }
+        }
+      }
+    },
+    "day.195" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clean the pan, clean the plate!"
+          }
+        }
+      }
+    },
+    "day.196" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The plough turns the earth; I turn the fork!"
+          }
+        }
+      }
+    },
+    "day.197" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every seed is a story; every clean plate is the ending!"
+          }
+        }
+      }
+    },
+    "day.198" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seasoned with salt, eaten with heart!"
+          }
+        }
+      }
+    },
+    "day.199" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The soil's bounty is not for the bin!"
+          }
+        }
+      }
+    },
+    "day.200" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From the stove's fire to the heart's desire!"
+          }
+        }
+      }
+    },
+    "day.201" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plate-titude is everything!"
+          }
+        }
+      }
+    },
+    "day.202" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dish-cipline is key!"
+          }
+        }
+      }
+    },
+    "day.203" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crumb-believable finish!"
+          }
+        }
+      }
+    },
+    "day.204" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fork-titude in the face of fullness!"
+          }
+        }
+      }
+    },
+    "day.205" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauce-picion of waste? Never!"
+          }
+        }
+      }
+    },
+    "day.206" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pasta la vista, leftovers!"
+          }
+        }
+      }
+    },
+    "day.207" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Souper clean!"
+          }
+        }
+      }
+    },
+    "day.208" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lettuce finish it all!"
+          }
+        }
+      }
+    },
+    "day.209" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grain of truth: the plate is bare!"
+          }
+        }
+      }
+    },
+    "day.210" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rice to the occasion!"
+          }
+        }
+      }
+    },
+    "day.211" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bean there, ate that!"
+          }
+        }
+      }
+    },
+    "day.212" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berry good finish!"
+          }
+        }
+      }
+    },
+    "day.213" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olive for a clean plate!"
+          }
+        }
+      }
+    },
+    "day.214" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kale-ing it! (The cleanup)!"
+          }
+        }
+      }
+    },
+    "day.215" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steak your claim on the last bite!"
+          }
+        }
+      }
+    },
+    "day.216" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bread-y for anything!"
+          }
+        }
+      }
+    },
+    "day.217" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chopstick to the mission!"
+          }
+        }
+      }
+    },
+    "day.218" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Egg-cellent execution!"
+          }
+        }
+      }
+    },
+    "day.219" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grate-ful for every shred!"
+          }
+        }
+      }
+    },
+    "day.220" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spud-tacular sweep!"
+          }
+        }
+      }
+    },
+    "day.221" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yolk's on you—it's all gone!"
+          }
+        }
+      }
+    },
+    "day.222" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meat your match!"
+          }
+        }
+      }
+    },
+    "day.223" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pudding in the work!"
+          }
+        }
+      }
+    },
+    "day.224" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pie-hard finisher!"
+          }
+        }
+      }
+    },
+    "day.225" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tea-total clearance!"
+          }
+        }
+      }
+    },
+    "day.226" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wok this way to a clean dish!"
+          }
+        }
+      }
+    },
+    "day.227" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mussel through to the end!"
+          }
+        }
+      }
+    },
+    "day.228" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shrimp-ly the best at finishing!"
+          }
+        }
+      }
+    },
+    "day.229" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cod-like focus!"
+          }
+        }
+      }
+    },
+    "day.230" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mayo-r of Clean Plate City!"
+          }
+        }
+      }
+    },
+    "day.231" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relish the result!"
+          }
+        }
+      }
+    },
+    "day.232" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ketchup to my speed!"
+          }
+        }
+      }
+    },
+    "day.233" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tartar-ly spotless!"
+          }
+        }
+      }
+    },
+    "day.234" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gravy train stops here!"
+          }
+        }
+      }
+    },
+    "day.235" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thyme to eat it all!"
+          }
+        }
+      }
+    },
+    "day.236" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sage advice: leave nothing!"
+          }
+        }
+      }
+    },
+    "day.237" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dill with it—it's finished!"
+          }
+        }
+      }
+    },
+    "day.238" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basil-ically empty!"
+          }
+        }
+      }
+    },
+    "day.239" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mint condition porcelain!"
+          }
+        }
+      }
+    },
+    "day.240" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pepper your plate with praise!"
+          }
+        }
+      }
+    },
+    "day.241" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crisp finish, clear conscience!"
+          }
+        }
+      }
+    },
+    "day.242" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The crunch of a job well done!"
+          }
+        }
+      }
+    },
+    "day.243" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smoothly sailed to the bottom of the bowl!"
+          }
+        }
+      }
+    },
+    "day.244" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Master of the Mop-Up!"
+          }
+        }
+      }
+    },
+    "day.245" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A silken surface, a satisfied soul!"
+          }
+        }
+      }
+    },
+    "day.246" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The sear of the pan, the clear of the man!"
+          }
+        }
+      }
+    },
+    "day.247" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tackle the tangle (of noodles) till none remain!"
+          }
+        }
+      }
+    },
+    "day.248" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From the first flake to the last lake of sauce!"
+          }
+        }
+      }
+    },
+    "day.249" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Garnish is not a decoration; it’s a destination!"
+          }
+        }
+      }
+    },
+    "day.250" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The rind is the finish line!"
+          }
+        }
+      }
+    },
+    "day.251" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bone-dry and plate-perfect!"
+          }
+        }
+      }
+    },
+    "day.252" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zest for the meal, rest for the dish!"
+          }
+        }
+      }
+    },
+    "day.253" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every layer is a level to conquer!"
+          }
+        }
+      }
+    },
+    "day.254" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The glaze is gone; the victory is won!"
+          }
+        }
+      }
+    },
+    "day.255" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dough not leave a crumb behind!"
+          }
+        }
+      }
+    },
+    "day.256" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whisked away to my stomach!"
+          }
+        }
+      }
+    },
+    "day.257" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Braised to be praised, cleared to be cheered!"
+          }
+        }
+      }
+    },
+    "day.258" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tender finish for a tough mission!"
+          }
+        }
+      }
+    },
+    "day.259" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Savory success is a spotless surface!"
+          }
+        }
+      }
+    },
+    "day.260" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The bitter end is a sweet victory!"
+          }
+        }
+      }
+    },
+    "day.261" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sizzle to silence: from the pan to the polished plate!"
+          }
+        }
+      }
+    },
+    "day.262" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respect the steam, then fulfill the dream of an empty bowl!"
+          }
+        }
+      }
+    },
+    "day.263" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every sip is a step toward a spotless success!"
+          }
+        }
+      }
+    },
+    "day.264" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snap up the last bite; leave nothing to the night!"
+          }
+        }
+      }
+    },
+    "day.265" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A final swirl of the bread, a mission put to bed!"
+          }
+        }
+      }
+    },
+    "day.266" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The sizzle was the promise; the empty plate is the proof!"
+          }
+        }
+      }
+    },
+    "day.267" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Where there was steam, now there is only a gleaming surface!"
+          }
+        }
+      }
+    },
+    "day.268" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sip the broth until the pattern on the porcelain appears!"
+          }
+        }
+      }
+    },
+    "day.269" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A crisp snap of the bean, a plate that is perfectly clean!"
+          }
+        }
+      }
+    },
+    "day.270" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swirl the sauce away; be the hero of the tray!"
+          }
+        }
+      }
+    },
+    "day.271" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From the sizzle of the stove to the soul of the society!"
+          }
+        }
+      }
+    },
+    "day.272" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The steam has cleared, and no scrap has appeared!"
+          }
+        }
+      }
+    },
+    "day.273" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One last sip, one great leap for the Clean Plate Society!"
+          }
+        }
+      }
+    },
+    "day.274" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snap to attention: the last morsel is gone!"
+          }
+        }
+      }
+    },
+    "day.275" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swirl your way to a five-star finish!"
+          }
+        }
+      }
+    },
+    "day.276" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The sizzle of the start meets the sparkle of the finish!"
+          }
+        }
+      }
+    },
+    "day.277" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steam-cooked and member-cleared!"
+          }
+        }
+      }
+    },
+    "day.278" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sip every drop; never let the progress stop!"
+          }
+        }
+      }
+    },
+    "day.279" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The final snap of the crust is a matter of trust!"
+          }
+        }
+      }
+    },
+    "day.280" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A swirl of the spoon, an empty dish by noon"
+          }
+        }
+      }
+    },
+    "day.281" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focusing on the history and future of the Society!"
+          }
+        }
+      }
+    },
+    "day.282" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A legacy written in porcelain!"
+          }
+        }
+      }
+    },
+    "day.283" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generations of diners, one single goal!"
+          }
+        }
+      }
+    },
+    "day.284" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The future is a world without waste!"
+          }
+        }
+      }
+    },
+    "day.285" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time waits for no man, and neither does a clean plate!"
+          }
+        }
+      }
+    },
+    "day.286" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ancient values, modern appetites!"
+          }
+        }
+      }
+    },
+    "day.287" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tradition of the tidy!"
+          }
+        }
+      }
+    },
+    "day.288" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History remembers the finishers!"
+          }
+        }
+      }
+    },
+    "day.289" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The chronicle of the cleared dish!"
+          }
+        }
+      }
+    },
+    "day.290" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Past meals, present pride!"
+          }
+        }
+      }
+    },
+    "day.291" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centuries of clearing!"
+          }
+        }
+      }
+    },
+    "day.292" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The hour of the empty plate is upon us!"
+          }
+        }
+      }
+    },
+    "day.293" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minutes to eat, a lifetime to honor!"
+          }
+        }
+      }
+    },
+    "day.294" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dawn till Dusk, the oath remains!"
+          }
+        }
+      }
+    },
+    "day.295" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An eternal appetite for excellence!"
+          }
+        }
+      }
+    },
+    "day.296" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tomorrow’s hunger, today’s completion!"
+          }
+        }
+      }
+    },
+    "day.297" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The sands of time are just crumbs in the hourglass!"
+          }
+        }
+      }
+    },
+    "day.298" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evergreen efforts at the table!"
+          }
+        }
+      }
+    },
+    "day.299" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A timeless tribute to the cook!"
+          }
+        }
+      }
+    },
+    "day.300" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Age-old respect, brand-new finish!"
+          }
+        }
+      }
+    },
+    "day.301" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The endless pursuit of the empty!"
+          }
+        }
+      }
+    },
+    "day.302" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A new era of dining, a classic finish!"
+          }
+        }
+      }
+    },
+    "day.303" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Through every eon, the empty plate remains the goal!"
+          }
+        }
+      }
+    },
+    "day.304" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every moment at the table is a chance for a clean sweep!"
+          }
+        }
+      }
+    },
+    "day.305" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every second counts until the last bite is gone!"
+          }
+        }
+      }
+    },
+    "day.306" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A century of tradition in a single polished dish!"
+          }
+        }
+      }
+    },
+    "day.307" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The era of waste is over; the era of the empty plate is here!"
+          }
+        }
+      }
+    },
+    "day.308" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An eon of effort by the earth, honored by my appetite!"
+          }
+        }
+      }
+    },
+    "day.309" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capture the moment the porcelain appears!"
+          }
+        }
+      }
+    },
+    "day.310" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don’t waste a second on a scrap left behind!"
+          }
+        }
+      }
+    },
+    "day.311" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For a century to come, may our plates be spotless!"
+          }
+        }
+      }
+    },
+    "day.312" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The golden era of the gourmet is the age of the empty dish!"
+          }
+        }
+      }
+    },
+    "day.313" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From an eon of soil to a second of swallow!"
+          }
+        }
+      }
+    },
+    "day.314" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A moment of silence for the meal, a moment of pride for the finish!"
+          }
+        }
+      }
+    },
+    "day.315" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In the final second, the victory is won!"
+          }
+        }
+      }
+    },
+    "day.316" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One century of recipes, one second of all gone!"
+          }
+        }
+      }
+    },
+    "day.317" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The era of the fork is the era of the finish!"
+          }
+        }
+      }
+    },
+    "day.318" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Through every eon, we leave no trace!"
+          }
+        }
+      }
+    },
+    "day.319" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make every moment a masterpiece of clearing!"
+          }
+        }
+      }
+    },
+    "day.320" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just a second more to save the crust!"
+          }
+        }
+      }
+    },
+    "day.321" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A century of gratitude on a plate that looks brand new"
+          }
+        }
+      }
+    },
+    "day.322" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Victory is a void!"
+          }
+        }
+      }
+    },
+    "day.323" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The void is valid!"
+          }
+        }
+      }
+    },
+    "day.324" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mighty is the member who mops!"
+          }
+        }
+      }
+    },
+    "day.325" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supreme spotless success!"
+          }
+        }
+      }
+    },
+    "day.326" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peerless plate performance!"
+          }
+        }
+      }
+    },
+    "day.327" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Absolute absence of leftovers!"
+          }
+        }
+      }
+    },
+    "day.328" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brilliant bowl behavior!"
+          }
+        }
+      }
+    },
+    "day.329" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clarity in the ceramic!"
+          }
+        }
+      }
+    },
+    "day.330" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Definitive dining!"
+          }
+        }
+      }
+    },
+    "day.331" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exquisite emptying!"
+          }
+        }
+      }
+    },
+    "day.332" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flawless food follow-through!"
+          }
+        }
+      }
+    },
+    "day.333" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grand gastronomic goal!"
+          }
+        }
+      }
+    },
+    "day.334" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heroic hunger!"
+          }
+        }
+      }
+    },
+    "day.335" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Infinite intake!"
+          }
+        }
+      }
+    },
+    "day.336" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just and Joyful joining!"
+          }
+        }
+      }
+    },
+    "day.337" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kinetic kitchen kindness!"
+          }
+        }
+      }
+    },
+    "day.338" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luminous lunch!"
+          }
+        }
+      }
+    },
+    "day.339" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magnificent mouthfuls!"
+          }
+        }
+      }
+    },
+    "day.340" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noble nibbling!"
+          }
+        }
+      }
+    },
+    "day.341" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Optimal occupancy (of the stomach)!"
+          }
+        }
+      }
+    },
+    "day.342" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramount polishing!"
+          }
+        }
+      }
+    },
+    "day.343" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quiet quality!"
+          }
+        }
+      }
+    },
+    "day.344" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radiant remains (none)!"
+          }
+        }
+      }
+    },
+    "day.345" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stellar swallowing!"
+          }
+        }
+      }
+    },
+    "day.346" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total triumph!"
+          }
+        }
+      }
+    },
+    "day.347" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ultimate utensil usage!"
+          }
+        }
+      }
+    },
+    "day.348" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vibrant vanishing act!"
+          }
+        }
+      }
+    },
+    "day.349" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wonderful wiping!"
+          }
+        }
+      }
+    },
+    "day.350" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X-tra empty!"
+          }
+        }
+      }
+    },
+    "day.351" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yield to the yield!"
+          }
+        }
+      }
+    },
+    "day.352" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zenith of zero waste!"
+          }
+        }
+      }
+    },
+    "day.353" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ate it, Great it!"
+          }
+        }
+      }
+    },
+    "day.354" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bowl soul!"
+          }
+        }
+      }
+    },
+    "day.355" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clean scene!"
+          }
+        }
+      }
+    },
+    "day.356" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dish wish!"
+          }
+        }
+      }
+    },
+    "day.357" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eat feat!"
+          }
+        }
+      }
+    },
+    "day.358" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full pull!"
+          }
+        }
+      }
+    },
+    "day.359" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gulp help!"
+          }
+        }
+      }
+    },
+    "day.360" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "High pie!"
+          }
+        }
+      }
+    },
+    "day.361" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inner dinner!"
+          }
+        }
+      }
+    },
+    "day.362" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just crust!"
+          }
+        }
+      }
+    },
+    "day.363" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep heap!"
+          }
+        }
+      }
+    },
+    "day.364" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last blast!"
+          }
+        }
+      }
+    },
+    "day.365" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Final Frontier: The Porcelain Plane!"
+          }
+        }
+      }
+    },
+    "day.366" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The plate is clear. The legacy is eternal!"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

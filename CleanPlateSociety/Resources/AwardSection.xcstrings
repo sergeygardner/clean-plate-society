@@ -1,0 +1,116 @@
+{
+    "sourceLanguage": "en",
+    "strings": {
+        "foundations": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Foundations"
+                    }
+                }
+            }
+        },
+        "seasonal.salutes": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Seasonal Salutes"
+                    }
+                }
+            }
+        },
+        "chef.s.compliments": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Chef\u2019s Compliments"
+                    }
+                }
+            }
+        },
+        "zero.waste.warriors": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Zero-Waste Warriors"
+                    }
+                }
+            }
+        },
+        "technical.titans": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Technical Titans"
+                    }
+                }
+            }
+        },
+        "banquet.bravery": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Banquet Bravery"
+                    }
+                }
+            }
+        },
+        "eco.ethics": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Eco-Ethics"
+                    }
+                }
+            }
+        },
+        "kitchen.lore": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Kitchen Lore"
+                    }
+                }
+            }
+        },
+        "vessel.veneration": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Vessel Veneration"
+                    }
+                }
+            }
+        },
+        "the.great.beyond": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The Great Beyond"
+                    }
+                }
+            }
+        }
+    },
+    "version": "1.1"
+}

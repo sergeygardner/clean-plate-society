@@ -1,0 +1,1964 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "society.appointment.engagement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please proceed"
+          }
+        }
+      }
+    },
+    "society.appointment.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request for a Private Audience"
+          }
+        }
+      }
+    },
+    "society.button.agree" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agree"
+          }
+        }
+      }
+    },
+    "society.button.clear" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear cache"
+          }
+        }
+      }
+    },
+    "society.button.error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proceed"
+          }
+        }
+      }
+    },
+    "society.chancellor.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The High Chancellor of the Great Beyond"
+          }
+        }
+      }
+    },
+    "society.chancellor.signed.and.sealed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signed and Sealed on this day,"
+          }
+        }
+      }
+    },
+    "society.difficulty.level.high.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The pinnacle of earthly discipline. Members of this tier commit to the Triple Crown of Dining, pledging to finish every morsel at breakfast, lunch, and dinner. This level of dedication is the only path to the higher ranks of the Technical Titan and is the ultimate tribute to the Chef and the Soil."
+          }
+        }
+      }
+    },
+    "society.difficulty.level.high.label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The High Tier"
+          }
+        }
+      }
+    },
+    "society.difficulty.level.high.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Sovereign’s Shadow"
+          }
+        }
+      }
+    },
+    "society.difficulty.level.high.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The High Tier: Thrice Daily"
+          }
+        }
+      }
+    },
+    "society.difficulty.level.low.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Members at this level pledge their honor to a single daily victory. Whether at breakfast, lunch, or dinner, the initiate must deliver one perfectly polished plate every twenty-four hours. This tier is reserved for those balancing the Society’s demands with outside worldly duties."
+          }
+        }
+      }
+    },
+    "society.difficulty.level.low.label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Low Tier"
+          }
+        }
+      }
+    },
+    "society.difficulty.level.low.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Morning or Evening Sentinel"
+          }
+        }
+      }
+    },
+    "society.difficulty.level.low.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Low Tier: Once Daily"
+          }
+        }
+      }
+    },
+    "society.difficulty.level.medium.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A significant step toward mastery, this level requires a dual daily devotion. The member vows to clear their plate during two of the three primary seatings. Achieving the Medium Tier demonstrates a shift from casual dining to a lifestyle defined by the consistent spotless finish."
+          }
+        }
+      }
+    },
+    "society.difficulty.level.medium.label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Medium Tier"
+          }
+        }
+      }
+    },
+    "society.difficulty.level.medium.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Pillar of Persistence"
+          }
+        }
+      }
+    },
+    "society.difficulty.level.medium.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Medium Tier: Twice Daily"
+          }
+        }
+      }
+    },
+    "society.error.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Technical Observation:"
+          }
+        }
+      }
+    },
+    "society.error.hello" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honoured Member,"
+          }
+        }
+      }
+    },
+    "society.error.intro" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We regret to inform you that a disruption has occurred within the Great Archive. The digital vessel required to store your commitments has failed to reach its absolute state. At this moment, your progress cannot be etched into the Sovereign’s Ledger."
+          }
+        }
+      }
+    },
+    "society.error.note1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Seal is Broken. The Ledger is Unreachable."
+          }
+        }
+      }
+    },
+    "society.error.note2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The past is preserved in spirit; the future awaits the restoration of the stone."
+          }
+        }
+      }
+    },
+    "society.error.outro" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do not be discouraged. This is a moment for Vigilance, not despair. Our architects have been notified of this shadow upon the records. We ask that you remain patient while the High Office works to restore the purity of your data."
+          }
+        }
+      }
+    },
+    "society.error.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PROCLAMATION: A DISRUPTION IN THE RECORDS"
+          }
+        }
+      }
+    },
+    "society.greetings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Greetings, **%@**."
+          }
+        }
+      }
+    },
+    "society.legal.purchase" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subscription automatically renews unless cancelled at least 24 hours before the end of the current period. Manage subscriptions in App Store Account Settings."
+          }
+        }
+      }
+    },
+    "society.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Clean Plate Society"
+          }
+        }
+      }
+    },
+    "society.next.appointment.description1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**%@**, your request for an audience has been formally received and ratified by the **High Office**"
+          }
+        }
+      }
+    },
+    "society.next.appointment.description2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are now invited to enter the **Phase of Preparation**. This period of anticipation is a sacred requirement; it is the time during which a member must demonstrate that their commitment is as enduring as the porcelain itself. The Chancellor is currently reviewing your **Society Records** and preparing the **Sacred Ink** for your arrival."
+          }
+        }
+      }
+    },
+    "society.next.appointment.description3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maintain your discipline at every seating. Your hour has been etched into the **Great Ledger**, and the Society awaits the brilliance of your next report."
+          }
+        }
+      }
+    },
+    "society.next.appointment.status" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next appointment in"
+          }
+        }
+      }
+    },
+    "society.next.appointment.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acceptance of the Private Audience"
+          }
+        }
+      }
+    },
+    "society.our.introduction.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Our policies"
+          }
+        }
+      }
+    },
+    "society.perk.crown.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profiles’ crown"
+          }
+        }
+      }
+    },
+    "society.perk.manual.stickers.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manual 3 stickers collections"
+          }
+        }
+      }
+    },
+    "society.perk.profiles.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profiles"
+          }
+        }
+      }
+    },
+    "society.perk.stickers.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stickers"
+          }
+        }
+      }
+    },
+    "society.perk.unlimited.profiles.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlimited profiles"
+          }
+        }
+      }
+    },
+    "society.privacy.policy.introduction" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In the Clean Plate Society, we believe your data belongs to you - period. We are committed to radical transparency and **Privacy by Design**. This policy outlines the minimal data we collect to provide our services and the rigorous steps we take to protect it. We don't sell your information, and we don't track you across the web. Here, your privacy is a right, not a setting."
+          }
+        }
+      }
+    },
+    "society.privacy.policy.introduction.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Data, Your Plate"
+          }
+        }
+      }
+    },
+    "society.privacy.policy.introduction.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        }
+      }
+    },
+    "society.restore.purchase" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore Purchase"
+          }
+        }
+      }
+    },
+    "society.rules.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This Member’s Handbook serves as the definitive guide for every initiate of the Clean Plate Society. It’s designed to be a pocket-sized manual that ensures every member carries our values from the banquet hall to the breakfast nook."
+          }
+        }
+      }
+    },
+    "society.rules.introduction" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every community is built on a shared set of values. The House Rules are the foundation of the Clean Plate Society - ensuring that every interaction, contribution, and shared milestone remains respectful, intentional, and focused on our collective growth. Before you pull up a chair, take a moment to understand how we maintain the integrity of our society."
+          }
+        }
+      }
+    },
+    "society.rules.introduction.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Clean Plate Ethos"
+          }
+        }
+      }
+    },
+    "society.rules.introduction.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Community Guidelines"
+          }
+        }
+      }
+    },
+    "society.rules.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Official Member’s Handbook"
+          }
+        }
+      }
+    },
+    "society.rules.section1.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Core Philosophy"
+          }
+        }
+      }
+    },
+    "society.rules.section1.rule1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Golden Rule: If it reaches the porcelain, it must reach the palate."
+          }
+        }
+      }
+    },
+    "society.rules.section1.rule2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Triple Respect: We eat to honour the Sower (the farmer), the Shaper (the chef), and the Sustenance (the food itself)."
+          }
+        }
+      }
+    },
+    "society.rules.section1.rule3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Zero-Waste Mandate: A clean plate is the ultimate protest against global food waste."
+          }
+        }
+      }
+    },
+    "society.rules.section2.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The \"Plate-Clearing\" Protocols"
+          }
+        }
+      }
+    },
+    "society.rules.section2.rule1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Buffet Strategy: Take only what you can conquer. Multiple trips are a sign of wisdom; an abandoned mountain of food is a sign of weakness."
+          }
+        }
+      }
+    },
+    "society.rules.section2.rule2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The \"Difficult\" Ingredient: Members shall approach garnishes (parsley, kale, lemon wedges) with bravery. If it is edible, it is part of the mission."
+          }
+        }
+      }
+    },
+    "society.rules.section2.rule3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Sauce Salvage: Using a crust of bread to \"mop\" the remains of a sauce is not only permitted, it is encouraged as a high-level technical skill."
+          }
+        }
+      }
+    },
+    "society.rules.section3.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signs & Symbols"
+          }
+        }
+      }
+    },
+    "society.rules.section3.rule1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Official Salute: A brief, two-finger tap to the edge of one’s plate when passing a fellow member in a restaurant."
+          }
+        }
+      }
+    },
+    "society.rules.section3.rule2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The \"Finished\" Position: Cutlery must be placed at the 4:20 position (parallel and angled) to signal a successful mission to the staff."
+          }
+        }
+      }
+    },
+    "society.rules.section3.rule3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Secret Handshake: \"The Palate Polish”. This three-step gesture is designed to be discreet but unmistakable to fellow members:"
+          }
+        }
+      }
+    },
+    "society.rules.section3.rule3.part1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Grip: Start with a standard firm handshake."
+          }
+        }
+      }
+    },
+    "society.rules.section3.rule3.part2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Circle: While still holding hands, use your thumb to trace a quick, clockwise circle on the back of the other person's hand (symbolising a circular plate being wiped clean)."
+          }
+        }
+      }
+    },
+    "society.rules.section3.rule3.part3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Tap: End by tapping your index finger twice against your palm, mimicking the sound of a fork hitting a finished ceramic plate."
+          }
+        }
+      }
+    },
+    "society.rules.section3.rule4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Casual Sign-Off: \"The Invisible Crumb”. For a quicker, more \"street-level\" greeting among members:"
+          }
+        }
+      }
+    },
+    "society.rules.section3.rule4.part1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make a \"C\" shape with your right hand (for \"Clean\")."
+          }
+        }
+      }
+    },
+    "society.rules.section3.rule4.part2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Briefly mimic the motion of wiping a table or plate from left to right."
+          }
+        }
+      }
+    },
+    "society.rules.section3.rule4.part3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End with a \"thumbs up\" or a satisfied pat of the stomach."
+          }
+        }
+      }
+    },
+    "society.rules.section4.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ranks of the Society"
+          }
+        }
+      }
+    },
+    "society.rules.section5.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Penalty Box"
+          }
+        }
+      }
+    },
+    "society.rules.section5.rule1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Leftover Lapse: Any member who leaves more than a \"smidgen\" behind must perform the \"Dishwasher’s Penance\" (clearing the table for the rest of the group)."
+          }
+        }
+      }
+    },
+    "society.rules.section6.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dining Out"
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Pre-Mission Briefing (Ordering). Mastering the clean plate begins before the food hits the table."
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule1.part1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The \"Small Plates\" Strategy: Prioritise appetisers, side dishes, or \"small appetite\" portions if listed on the menu."
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule1.part2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Shared Victory: Propose splitting an entrée with a fellow diner to ensure both plates end up empty."
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule1.part3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customised Commands: Ask for dressings and sauces on the side to control your intake, and explicitly decline the bread or chip basket if you know it will prevent you from finishing your main meal."
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The \"Box-First\" Manoeuvre. When a \"mountain of food\" is inevitable, use the Immediate Partition technique:"
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule2.part1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Half-Plate Split: As soon as your meal arrives, divide the plate in half."
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule2.part2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request the \"Safe-Keep\": Ask for a takeaway container at the start of the meal. Move the surplus portion into the box immediately to \"secure tomorrow's dinner\"."
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule2.part3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Invisible Leftover: By boxing half immediately, you transform a daunting portion into a perfectly finishable \"Clean Plate\" mission on your table."
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tactical Consumption"
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule3.part1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Vegetable Vanguard: Focus on high-volume, fiber-rich vegetables first to satisfy hunger while ensuring you have the \"room\" to polish off the rest."
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule3.part2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindful Pacing: Eat slowly and savour every bite. This allows your brain to register fullness before you are forced to overeat purely for the sake of the oath."
+          }
+        }
+      }
+    },
+    "society.rules.section6.rule3.part3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The \"No-Go\" Zone: Avoid buffets and \"all-you-can-eat\" settings, where portion control is nearly impossible, and the risk of breaking the oath is at its highest. "
+          }
+        }
+      }
+    },
+    "society.slogan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every Crumb a Commitment, Every Plate a Promise"
+          }
+        }
+      }
+    },
+    "society.slogan.latin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omnis Mica, Omne Votum"
+          }
+        }
+      }
+    },
+    "society.sticker.badgers.hooked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Badger never gives up on a tough crust or a stubborn garnish. This collection is for the diner who works the corners of the bowl with absolute diligence."
+          }
+        }
+      }
+    },
+    "society.sticker.badgers.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Badgers"
+          }
+        }
+      }
+    },
+    "society.sticker.badgers.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Determined Finisher"
+          }
+        }
+      }
+    },
+    "society.sticker.badgers.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Badger Collection"
+          }
+        }
+      }
+    },
+    "society.sticker.badgers.vibed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gritty, persistent, and thorough"
+          }
+        }
+      }
+    },
+    "society.sticker.bears.hooked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Bear sigil belongs to our most robust diners. Choosing the Bear means you possess the strength to clear even the heaviest portions, ensuring that the harvest is fully honoured, no matter the scale."
+          }
+        }
+      }
+    },
+    "society.sticker.bears.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bears"
+          }
+        }
+      }
+    },
+    "society.sticker.bears.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Banquet Conqueror"
+          }
+        }
+      }
+    },
+    "society.sticker.bears.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Bear Collection"
+          }
+        }
+      }
+    },
+    "society.sticker.bears.vibed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smart, adaptable, and sleek"
+          }
+        }
+      }
+    },
+    "society.sticker.download.oath" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I solemnly swear to receive these emblems into my possession. I acknowledge that to carry the Society's mark, my digital vessel must be complete. The data is gathered, that the duty may be done."
+          }
+        }
+      }
+    },
+    "society.sticker.foxes.hooked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You don't just eat; you have a plan. You know how to navigate a menu to ensure a perfect finish every time. Choose the Fox if your dining style is as sharp as a Chef’s Knife."
+          }
+        }
+      }
+    },
+    "society.sticker.foxes.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foxes"
+          }
+        }
+      }
+    },
+    "society.sticker.foxes.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Clever Strategist"
+          }
+        }
+      }
+    },
+    "society.sticker.foxes.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Fox Collection"
+          }
+        }
+      }
+    },
+    "society.sticker.foxes.vibed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gritty, persistent, and thorough"
+          }
+        }
+      }
+    },
+    "society.sticker.hook" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**The Hook:**"
+          }
+        }
+      }
+    },
+    "society.sticker.manual1.hooked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A celebration of the vibrant, whole foods that form the foundation of a clean plate. From the crunch of a fresh radish to the zest of a sun-ripened lemon, these stickers represent your commitment to unprocessed, earth-grown fuel."
+          }
+        }
+      }
+    },
+    "society.sticker.manual1.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Own Grown 1"
+          }
+        }
+      }
+    },
+    "society.sticker.manual1.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Garden Greats"
+          }
+        }
+      }
+    },
+    "society.sticker.manual1.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Own Grown Collection 1"
+          }
+        }
+      }
+    },
+    "society.sticker.manual1.vibed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rooted in health, grown by you"
+          }
+        }
+      }
+    },
+    "society.sticker.manual2.hooked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This set honors the raw power of nature’s bounty. Each sticker is a badge of honor for choosing real food over wrappers. It’s for those who appreciate the beauty in a bundle of kale or the perfect symmetry of an avocado."
+          }
+        }
+      }
+    },
+    "society.sticker.manual2.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Own Grown 2"
+          }
+        }
+      }
+    },
+    "society.sticker.manual2.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Harvest Heroes"
+          }
+        }
+      }
+    },
+    "society.sticker.manual2.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Own Grown Collection 2"
+          }
+        }
+      }
+    },
+    "society.sticker.manual2.vibed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nature’s original ingredients, logged by you"
+          }
+        }
+      }
+    },
+    "society.sticker.manual3.hooked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A minimalist collection designed for the modern minimalist eater. These stickers represent the \"clean\" in Clean Plate focusing on clarity, transparency, and the simple joy of knowing exactly what goes into your body."
+          }
+        }
+      }
+    },
+    "society.sticker.manual3.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Own Grown 3"
+          }
+        }
+      }
+    },
+    "society.sticker.manual3.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Pure Pantry"
+          }
+        }
+      }
+    },
+    "society.sticker.manual3.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Own Grown Collection 3"
+          }
+        }
+      }
+    },
+    "society.sticker.manual3.vibed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pure plates, clear conscience"
+          }
+        }
+      }
+    },
+    "society.sticker.oath" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I swear by the porcelain and the plough to carry this sigil with the dignity befitting a member of the Clean Plate Society. I acknowledge that this is no mere decoration, but a sacred emblem of my intent."
+          }
+        }
+      }
+    },
+    "society.sticker.squirrels.hooked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masters of the small details. The Squirrel sigil is for the Zero-Waste Warrior who ensures even the smallest grain of rice or seed is rescued from the plate. You are agile, mindful, and treat every tiny resource as a treasure."
+          }
+        }
+      }
+    },
+    "society.sticker.squirrels.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Squirrels"
+          }
+        }
+      }
+    },
+    "society.sticker.squirrels.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Mindful Gatherer"
+          }
+        }
+      }
+    },
+    "society.sticker.squirrels.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Squirrel Collection"
+          }
+        }
+      }
+    },
+    "society.sticker.squirrels.vibed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quick, nimble, and zero-waste."
+          }
+        }
+      }
+    },
+    "society.sticker.standard.hooked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For those who believe the spotless finish is its own reward. The Standard sigil is the mark of the purist—no frills, just the classic blue and white of a job perfectly done. If you value tradition and the high-style of the Chancellor’s Office, this is your pack."
+          }
+        }
+      }
+    },
+    "society.sticker.standard.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard"
+          }
+        }
+      }
+    },
+    "society.sticker.standard.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Traditionalist"
+          }
+        }
+      }
+    },
+    "society.sticker.standard.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Standard Collection"
+          }
+        }
+      }
+    },
+    "society.sticker.standard.vibed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegant, precise, and timeless"
+          }
+        }
+      }
+    },
+    "society.sticker.upload.oath" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I solemnly swear that the images I upload to this collection represent my genuine journey toward a cleaner plate. I promise to use these stickers to celebrate real food, mindful choices, and the honest progress I make each day. No shortcuts, no fillers - just pure intention."
+          }
+        }
+      }
+    },
+    "society.sticker.vibe" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**The Vibe:**"
+          }
+        }
+      }
+    },
+    "society.stickers.out.of.data.description1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Congratulations, **%@**! You have successfully filled your current logbook with every badge of your dedication. By conquering this collection, you have proven that your commitment was not a momentary whim, but a sustained victory over waste and want."
+          }
+        }
+      }
+    },
+    "society.stickers.out.of.data.description2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As the Society’s law dictates, once a collection reaches its Absolute finish, the old sigil must be retired to the Great Archive. You are now standing at the threshold of a new chapter. To continue your ascent, you must now choose a fresh Sticker Pack to mark your next mission."
+          }
+        }
+      }
+    },
+    "society.stickers.out.of.data.engagement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begin the Next Cycle"
+          }
+        }
+      }
+    },
+    "society.stickers.out.of.data.footnote" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The past is polished. The future is unwritten. Claim your next sigil and return to the table."
+          }
+        }
+      }
+    },
+    "society.stickers.out.of.data.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Platter is Empty. The Collection is Full."
+          }
+        }
+      }
+    },
+    "society.stickers.out.of.data.title1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Cycle of Completion"
+          }
+        }
+      }
+    },
+    "society.stickers.out.of.data.title2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A New Sigil Awaits"
+          }
+        }
+      }
+    },
+    "society.subscription.goldmonthly.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfect for staying consistent with your health goals without a long-term commitment."
+          }
+        }
+      }
+    },
+    "society.subscription.goldmonthly.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gold Monthly Subscription"
+          }
+        }
+      }
+    },
+    "society.subscription.goldyearly.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Secure a year of progress. Track every plate, reduce food waste, and gain full access."
+          }
+        }
+      }
+    },
+    "society.subscription.goldyearly.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gold Yearly Subscription"
+          }
+        }
+      }
+    },
+    "society.subscription.introduction" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clean Plate Society is a developer-supported community, free from intrusive ads and data-mining. Our membership tiers are designed to provide sustainable value while keeping the lights on. Whether you are looking for full **Gold** access to our advanced toolset or simply want to contribute to the Developer Tip Jar to show your appreciation, this section explains how your membership works and how your support directly impacts the app’s future."
+          }
+        }
+      }
+    },
+    "society.subscription.introduction.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supporting the Society"
+          }
+        }
+      }
+    },
+    "society.subscription.introduction.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subscriptions & Membership"
+          }
+        }
+      }
+    },
+    "society.subscription.tipsmonthly.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your recurring tip fuels our mission to reduce global food waste. Help us continue providing the tools that make \"cleaning your plate\" better for you and the planet."
+          }
+        }
+      }
+    },
+    "society.subscription.tipsmonthly.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monthly Tip Jar"
+          }
+        }
+      }
+    },
+    "society.subscription.tipsyearly.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help us scale our tech and expand our clean-eating movement for the entire year. Your one-time annual tip provides a solid base for our next 12 months of growth."
+          }
+        }
+      }
+    },
+    "society.subscription.tipsyearly.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yearly Tip Jar"
+          }
+        }
+      }
+    },
+    "society.support.introduction.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        }
+      }
+    },
+    "society.terms.of.use.introduction.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms of use"
+          }
+        }
+      }
+    },
+    "society.theme.forest.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deep Green and Earth. Dedicated to our Zero-Waste Warriors. These colours represent the Planet, the Soil, and our commitment to a sustainable future. It is a reminder of the life that precedes the plate."
+          }
+        }
+      }
+    },
+    "society.theme.forest.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Forest Verdant"
+          }
+        }
+      }
+    },
+    "society.theme.formal.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Black and Gold. The ultimate mark of authority. This theme uses deep black ink paired with a regal gold trim, designed for those who treat every meal with the high-stakes gravity of a state banquet. It is the pinnacle of Society elegance."
+          }
+        }
+      }
+    },
+    "society.theme.formal.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Formal Prestige"
+          }
+        }
+      }
+    },
+    "society.theme.harvest.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warm Yellow and Amber. A theme inspired by the Sun and the Grain. It celebrates the abundance of the earth and the warmth of a satisfied appetite. Perfect for those who view every meal as a celebration of the harvest."
+          }
+        }
+      }
+    },
+    "society.theme.harvest.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Harvest Gold"
+          }
+        }
+      }
+    },
+    "society.theme.midnight.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Charcoal and Silver. Inspired by the Stove and the Chef's Knife. A sharp, high-contrast theme for those who respect the intensity of the kitchen and the precision required for a Technical Titan’s sweep."
+          }
+        }
+      }
+    },
+    "society.theme.midnight.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Midnight Iron"
+          }
+        }
+      }
+    },
+    "society.theme.royal.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Classic White and Blue. The traditional colours of the Society. This theme evokes the image of a perfectly glazed, vintage dinner plate. It represents purity, tradition, and the standard of a spotless finish."
+          }
+        }
+      }
+    },
+    "society.theme.royal.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Royal Porcelain"
+          }
+        }
+      }
+    },
+    "society.tutorial.stage1.button.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agree"
+          }
+        }
+      }
+    },
+    "society.tutorial.stage1.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to the table!\n\nWe’re thrilled to have another member who truly values every bite and leaves nothing behind."
+          }
+        }
+      }
+    },
+    "society.tutorial.stage2.button.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accept the Duty"
+          }
+        }
+      }
+    },
+    "society.tutorial.stage2.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Clean Plate Society recognises that the path to a spotless life requires varying degrees of discipline. Every member must declare their Commitment Tier at the start of each lunar cycle to ensure the integrity of the collective."
+          }
+        }
+      }
+    },
+    "society.tutorial.stage2.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim your commitment tier:"
+          }
+        }
+      }
+    },
+    "society.tutorial.stage2.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Tiers of Culinary Commitment"
+          }
+        }
+      }
+    },
+    "society.tutorial.stage3.button.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim My Sigil"
+          }
+        }
+      }
+    },
+    "society.tutorial.stage3.description1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A plate is not truly yours until it has been marked by the Society’s seal. Every member is required to select a Commemorative Sticker Pack to identify their dedicated dining gear and track their progress in the official logbook."
+          }
+        }
+      }
+    },
+    "society.tutorial.stage3.description2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whether you choose the classic Standard emblem or find your spirit animal among the %@, these stickers serve as a visual oath to the table. They are the badges of your bravery and the markers of your mission; carry them with pride as you transform every meal into a masterpiece of completion. Choose your pack, mark your territory, and let no crumb go unrecorded."
+          }
+        }
+      }
+    },
+    "society.tutorial.stage3.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim Your Sigil: The Sticker Selection"
+          }
+        }
+      }
+    },
+    "society.tutorial.stage4.button.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let the feast begin"
+          }
+        }
+      }
+    },
+    "society.tutorial.stage4.caption1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose your colour, and let your legacy be written in the shade of your success."
+          }
+        }
+      }
+    },
+    "society.tutorial.stage4.caption2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Once selected, your chosen palette will be applied to your Member ID and all subsequent official scrolls."
+          }
+        }
+      }
+    },
+    "society.tutorial.stage4.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every word from the Chancellor’s Office should reflect the spirit of your commitment. Before the first scrolls are sent, you are invited to choose the Colour Theme for your future correspondence. This pigment will mark your letters, seals, and digital missives, binding your personal journey to the history of the Society."
+          }
+        }
+      }
+    },
+    "society.tutorial.stage4.note" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please select the hue of your future dispatches:"
+          }
+        }
+      }
+    },
+    "society.tutorial.stage4.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Chancellor’s Ink: Choose Your Signature Colour"
+          }
+        }
+      }
+    },
+    "subscriptions.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subscriptions"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

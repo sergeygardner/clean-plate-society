@@ -1,0 +1,1029 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "section3.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises you to view this quiet interlude not as a restriction, but as a sacred cleansing of the vessel. True discipline is forged in the empty spaces between the feasts."
+          }
+        }
+      }
+    },
+    "section3.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that the hunger of the mind must be conquered before the hunger of the body can be mastered. Let your current emptiness become your greatest strength."
+          }
+        }
+      }
+    },
+    "section3.3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests you use this time to contemplate the absolute precision of a truly empty dish. Preparation for the next challenge begins the moment the last meal ends."
+          }
+        }
+      }
+    },
+    "section3.4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that a warrior of the table is defined by their patience during the famine just as much as their focus during the feast. Guard your focus with unwavering resolve."
+          }
+        }
+      }
+    },
+    "section3.5" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to treat this waiting period as an essential calibration of your internal discipline. True readiness leaves no room for impatience."
+          }
+        }
+      }
+    },
+    "section3.6" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that the cleanest plate is born from the most patient stomach. Embrace the stillness of the current hour."
+          }
+        }
+      }
+    },
+    "section3.7" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that true mastery requires a balance of vibrant action and absolute restraint. Let your hunger mature into a precise instrument of our order."
+          }
+        }
+      }
+    },
+    "section3.8" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that wisdom is best cultivated when the physical senses are completely at rest. Let the void in your vessel clarify your devotion to the cause."
+          }
+        }
+      }
+    },
+    "section3.9" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to respect the profound balance that exists between consumption and restraint. True discipline cannot be rushed or circumvented."
+          }
+        }
+      }
+    },
+    "section3.10" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that even the most magnificent flame must occasionally rest beneath the ashes. Your patience now will elevate your next triumph."
+          }
+        }
+      }
+    },
+    "section3.11" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises you to focus your mind entirely on the solemnity of the Great Ledger. A clean mind is the ultimate companion to a clean plate."
+          }
+        }
+      }
+    },
+    "section3.12" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests you watch the steady passage of time with peaceful detachment. The next feast will appear exactly when the stars decree it."
+          }
+        }
+      }
+    },
+    "section3.13" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that a successful expedition requires careful preservation of current resources. Rest your vessel and ready your mind."
+          }
+        }
+      }
+    },
+    "section3.14" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that true endurance is found in the ability to remain perfectly stationary. Master the art of waiting before you seek to conquer the next platter."
+          }
+        }
+      }
+    },
+    "section3.15" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to find absolute fulfilment in the victory you have already achieved today. Let your satisfaction sustain you through the quiet hours."
+          }
+        }
+      }
+    },
+    "section3.16" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that private contemplation yields the most magnificent public victories. Guard your thoughts until the High Chancellor summons you once more."
+          }
+        }
+      }
+    },
+    "section3.17" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that the path of the clean plate requires absolute, unyielding mental maturity. Stand firm against the illusions of desire."
+          }
+        }
+      }
+    },
+    "section3.18" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises you to embrace this quiet space as a necessary journey of purification. Your dedication today determines your capacity for tomorrow."
+          }
+        }
+      }
+    },
+    "section3.19" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels that absolute mastery over the appetite is the ultimate expression of personal power. Let your silence speak for your devotion."
+          }
+        }
+      }
+    },
+    "section3.20" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that a master chef must also know how to sit at an empty table with grace. Your patience is an honour to our traditions."
+          }
+        }
+      }
+    },
+    "section3.21" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises you to find peace in the simplicity of an empty, unblemished dish. Let consistency guide your footsteps through this waiting period."
+          }
+        }
+      }
+    },
+    "section3.22" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that true science requires the careful observation of rest as much as action. Respect the quiet laws of the Great Beyond."
+          }
+        }
+      }
+    },
+    "section3.23" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that true growth requires the ability to withstand the quietest hours of the night. Keep your thoughts fixed on the Great Ledger."
+          }
+        }
+      }
+    },
+    "section3.24" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to use this emptiness as a blank canvas for your personal discipline. Let your restraint become your masterpiece."
+          }
+        }
+      }
+    },
+    "section3.25" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that the brightest stars shine most clearly when surrounded by absolute emptiness. Guard your purity with silent grace."
+          }
+        }
+      }
+    },
+    "section3.26" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that time is a minor obstacle to a truly dedicated soul. Stand as a vigilant guardian over your own appetite."
+          }
+        }
+      }
+    },
+    "section3.27" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to seek truth in the simplicity of an empty, unblemished platter. Reality is best viewed with a clear and rested mind."
+          }
+        }
+      }
+    },
+    "section3.28" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that the deepest resolve is forged in the absence of comfort. Master the darkness of your current hunger."
+          }
+        }
+      }
+    },
+    "section3.29" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that even the most adventurous spirits must submit to the order of the clock. Your patience today ensures your victory tomorrow."
+          }
+        }
+      }
+    },
+    "section3.30" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that a pristine performance requires an empty stage. Prepare your vessel with silent and meticulous care."
+          }
+        }
+      }
+    },
+    "section3.31" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to read the quiet pages of patience with the utmost diligence. True knowledge begins when the individual's desire falls completely silent."
+          }
+        }
+      }
+    },
+    "section3.32" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises you to guard your time with absolute discretion. True legacy is built on patience, not haste."
+          }
+        }
+      }
+    },
+    "section3.33" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that emotional stability is best maintained when the physical vessel is entirely at rest. Let your self-control guide your thoughts through the quiet hours."
+          }
+        }
+      }
+    },
+    "section3.34" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to master the landscape of your mind before you attempt to conquer the next physical feat. Your willpower is your greatest asset."
+          }
+        }
+      }
+    },
+    "section3.35" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that true value is found in the emptiness of the vessel, not the extravagance of the feast. Keep your thoughts fixed on the Great Ledger."
+          }
+        }
+      }
+    },
+    "section3.36" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that endurance is the defining characteristic of a truly immortal spirit. Stand as an unyielding sentinel over your own appetite."
+          }
+        }
+      }
+    },
+    "section3.37" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels that true elegance is demonstrated through silent restraint rather than grand presentation. Guard your focus with unyielding grace."
+          }
+        }
+      }
+    },
+    "section3.38" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises you to view this quiet interval as a necessary preparation for a deeper understanding of conservation. Let your patience mature into a precise instrument."
+          }
+        }
+      }
+    },
+    "section3.39" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that rules are the foundational framework upon which all true victories are built. Master the art of waiting with scholarly devotion."
+          }
+        }
+      }
+    },
+    "section3.40" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that a body at rest will remain at rest until acted upon by an official summons from the High Chancellor. Let the void clarify your calculations."
+          }
+        }
+      }
+    },
+    "section3.41" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office expresses deep formal admiration for your enduring capacity to withstand hardship. Your inner strength will illuminate the paths ahead."
+          }
+        }
+      }
+    },
+    "section3.42" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels that a true hunter knows exactly when to rest their bow and wait in the shadows. Preserve your stamina for the grand trials."
+          }
+        }
+      }
+    },
+    "section3.43" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that true balance cannot be achieved if premature desires cloud the physical vessel. Trust the guidance of the high court."
+          }
+        }
+      }
+    },
+    "section3.44" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office validates your flawless execution of protocol with the utmost bureaucratic appreciation. Let your dignified silence serve as an example to all initiates."
+          }
+        }
+      }
+    },
+    "section3.45" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office celebrates your steady progress and advises you to find confidence in the simplicity of an empty, unblemished dish. Your patience is a virtue of the highest order."
+          }
+        }
+      }
+    },
+    "section3.46" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that clarity of purpose is best found when the physical senses are brought to an absolute standstill. Stand firm against the illusions of sorrow."
+          }
+        }
+      }
+    },
+    "section3.47" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that with great achievement comes the great responsibility of maintaining perfect personal restraint. Master the quiet hours."
+          }
+        }
+      }
+    },
+    "section3.48" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises you to tune your senses exclusively to the silent majesty of the Great Ledger. True harmony is found in absolute emptiness."
+          }
+        }
+      }
+    },
+    "section3.49" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to find absolute satisfaction in the administrative victory you have already secured today. Let your current emptiness build your character."
+          }
+        }
+      }
+    },
+    "section3.50" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that true maturity requires the ability to sit at an empty table without complaint. Keep your focus fixed on the protocol."
+          }
+        }
+      }
+    },
+    "section3.51" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that the most powerful operations are executed with a cold mind and an empty stomach. Maintain your silence with absolute resolve."
+          }
+        }
+      }
+    },
+    "section3.52" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to view this quiet interlude as an essential calibration of your internal discipline. Consistency is the key to longevity."
+          }
+        }
+      }
+    },
+    "section3.53" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that true mastery requires the careful observation of rest as much as calculated action. Respect the ancient boundaries."
+          }
+        }
+      }
+    },
+    "section3.54" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that true freedom is found in complete obedience to the laws of conservation. Guard your purity with vigilance."
+          }
+        }
+      }
+    },
+    "section3.55" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that the ultimate expression of power lies in mastering your own hunger. Let your silence speak for your discipline."
+          }
+        }
+      }
+    },
+    "section3.56" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that the brightest stars shine most clearly when surrounded by absolute emptiness. Guard your purity with silent, timeless grace."
+          }
+        }
+      }
+    },
+    "section3.57" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that a true warrior is defined by their patience during the famine just as much as their focus during the battle. Guard your focus."
+          }
+        }
+      }
+    },
+    "section3.58" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that a master servant must also know how to sit at an empty table with absolute dignity. Your patience honours our traditions."
+          }
+        }
+      }
+    },
+    "section3.59" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that the greatest adventures often begin in the quietest, emptiest rooms. Let your satisfaction sustain you."
+          }
+        }
+      }
+    },
+    "section3.60" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that true communication with the self is forged in the absence of comfort. Master your hunger."
+          }
+        }
+      }
+    },
+    "section3.61" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that private contemplation yields the most magnificent public victories. Guard your reputation with silent compliance."
+          }
+        }
+      }
+    },
+    "section3.62" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to read the quiet pages of patience with the utmost diligence. True wisdom begins when the individual's desire falls silent."
+          }
+        }
+      }
+    },
+    "section3.63" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that the ultimate truth is found within the emptiness of the self, not in the shadows of the unknown. Maintain your silence with absolute resolve."
+          }
+        }
+      }
+    },
+    "section3.64" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that true stamina is forged in the silent hours of recovery just as much as in the moments of heavy labour. Let your self-control guide your thoughts."
+          }
+        }
+      }
+    },
+    "section3.65" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to master the internal horizon of your own discipline before you attempt to conquer the next physical feat. Stand firm against all temptation."
+          }
+        }
+      }
+    },
+    "section3.66" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that true leverage is found in perfect compliance with the high administrative code. Guard your focus with unyielding grace."
+          }
+        }
+      }
+    },
+    "section3.67" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that your primary oath demands absolute obedience to the laws of conservation. Stand as an unyielding sentinel over your own appetite."
+          }
+        }
+      }
+    },
+    "section3.68" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels that true power is demonstrated through silent, restorative restraint rather than continuous outward exertion. Keep your thoughts fixed on the Great Ledger."
+          }
+        }
+      }
+    },
+    "section3.69" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises you to view this quiet interval as a necessary journey of internal purification. Let your patience mature into a precise instrument."
+          }
+        }
+      }
+    },
+    "section3.70" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that order is the bedrock upon which all true victories are preserved. Master the art of waiting with complete devotion."
+          }
+        }
+      }
+    },
+    "section3.71" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that clarity of thought is best achieved when individual ambition falls silent. Let the void clarify your perspective."
+          }
+        }
+      }
+    },
+    "section3.72" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office expresses deep formal admiration for your enduring capacity to withstand hardship. Your inner strength will illuminate the paths ahead."
+          }
+        }
+      }
+    },
+    "section3.73" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels that a true leader knows exactly when to pause and wait in the shadows. Preserve your stamina for the grand trials."
+          }
+        }
+      }
+    },
+    "section3.74" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that true balance cannot be achieved if premature impulses cloud the physical vessel. Trust the structural guidance of the high court."
+          }
+        }
+      }
+    },
+    "section3.75" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office validates your flawless execution of protocol with the utmost bureaucratic appreciation. Let your dignified silence serve as an example to all incoming initiates."
+          }
+        }
+      }
+    },
+    "section3.76" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office celebrates your steady progress and advises you to find confidence in the simplicity of an empty, unblemished dish. Your patience is a virtue of the highest order."
+          }
+        }
+      }
+    },
+    "section3.77" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that supreme leadership is best reflected in perfect personal restraint. Stand firm against the illusions of power."
+          }
+        }
+      }
+    },
+    "section3.78" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that true harmony is found in the ability to remain perfectly silent. Master the quiet hours."
+          }
+        }
+      }
+    },
+    "section3.79" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises you to tune your senses exclusively to the silent majesty of the Great Ledger. True innovation begins in absolute emptiness."
+          }
+        }
+      }
+    },
+    "section3.80" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to find absolute satisfaction in the administrative victory you have already secured today. Let your current emptiness build your character."
+          }
+        }
+      }
+    },
+    "section3.81" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that true mastery requires the ability to sit at an empty table without complaint. Keep your focus fixed on the protocol."
+          }
+        }
+      }
+    },
+    "section3.82" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that a cold mind and an empty stomach define the most powerful entities. Maintain your silence with absolute resolve."
+          }
+        }
+      }
+    },
+    "section3.83" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to view this quiet interlude as an essential calibration of your internal discipline. Consistency is the key to longevity."
+          }
+        }
+      }
+    },
+    "section3.84" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that true survival requires the careful observation of rest as much as calculated action. Respect the ancient boundaries."
+          }
+        }
+      }
+    },
+    "section3.85" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that true strength is found in complete obedience to the laws of conservation. Guard your purity with vigilance."
+          }
+        }
+      }
+    },
+    "section3.86" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that the ultimate expression of power lies in mastering your own hunger. Let your silence speak for your discipline."
+          }
+        }
+      }
+    },
+    "section3.87" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that the brightest individuals shine most clearly when surrounded by absolute emptiness. Guard your purity with silent, timeless grace."
+          }
+        }
+      }
+    },
+    "section3.88" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that true integrity is defined by your patience during the quiet hours. Guard your focus."
+          }
+        }
+      }
+    },
+    "section3.89" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that a true bearer of burdens must also know how to sit at an empty table with absolute dignity. Your patience honours our traditions."
+          }
+        }
+      }
+    },
+    "section3.90" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office reminds you that the greatest victories often begin in the quietest, emptiest rooms. Let your satisfaction sustain you."
+          }
+        }
+      }
+    },
+    "section3.91" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office advises that true connection with the self is forged in the absence of comfort. Master your hunger."
+          }
+        }
+      }
+    },
+    "section3.92" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office suggests that private contemplation yields the most magnificent public victories. Guard your reputation with silent compliance."
+          }
+        }
+      }
+    },
+    "section3.93" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The high office counsels you to read the quiet pages of patience with the utmost diligence. True wisdom begins when the individual's desire falls silent."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

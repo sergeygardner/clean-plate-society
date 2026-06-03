@@ -1,0 +1,1029 @@
+{
+    "sourceLanguage": "en",
+    "strings": {
+        "section2.1": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have walked the path of the fully consumed meal, leaving nothing but bare porcelain in your wake. Your discipline shines brightly in a wasteful world, reflecting the core virtues of our culinary order. Now, your ultimate triumph must be permanently recorded."
+                    }
+                }
+            }
+        },
+        "section2.2": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have conquered the feast set before you, clearing every crumb with admirable determination. The High Chancellor notes your dedication to the sacred laws of the kitchen table. Your immaculate plate stands as a testament to your focus."
+                    }
+                }
+            }
+        },
+        "section2.3": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The final morsel has vanished from your dish, leaving behind a pristine surface. Your actions today set a magnificent example for all future initiates of our order. The Great Beyond rewards those who honour the harvest completely."
+                    }
+                }
+            }
+        },
+        "section2.4": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You stand victorious over the remnants of your daily bread, having spared absolutely nothing. This dedication preserves the eternal balance between the cook and the consumer. The High Chancellor smiles upon your clean plate today."
+                    }
+                }
+            }
+        },
+        "section2.5": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate has been scraped completely clean, leaving no trace of the sustenance provided. Such focus proves your absolute respect for the bounty of the earth. The spirits of the kitchen rejoice in your thorough consumption."
+                    }
+                }
+            }
+        },
+        "section2.6": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have successfully fulfilled the ancient vow of the empty dish this evening. Your unwavering commitment to the culinary arts does not go unnoticed here. The realm of the Great Beyond celebrates your clean finish."
+                    }
+                }
+            }
+        },
+        "section2.7": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every single scrap of food has disappeared under your diligent care. The High Chancellor acknowledges your reverence for the hands that prepared this meal. Your immaculate dish shines like a beacon of pure discipline."
+                    }
+                }
+            }
+        },
+        "section2.8": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left behind nothing but a mirror finish on your dinnerware. This act of completion binds you closer to the heart of our society. The Great Beyond recognises your triumph over the entire portion."
+                    }
+                }
+            }
+        },
+        "section2.9": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The portion assigned to you has been thoroughly and completely devoured. Your steadfast refusal to waste food elevates your status among your peers. The High Chancellor marks this day as a victory for conservation."
+                    }
+                }
+            }
+        },
+        "section2.10": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Not a single drop of gravy or crumb of bread remains. Your immaculate plate mirrors the purity of your devotion to our cause\u2014the halls of the Great Beyond echo with praise for your appetite."
+                    }
+                }
+            }
+        },
+        "section2.11": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have answered the call of the empty plate with absolute precision. Your dedication ensures that the cycle of nourishment is fully completed today. The High Chancellor commends your excellent execution of the clean finish."
+                    }
+                }
+            }
+        },
+        "section2.12": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The meal placed before you has been entirely consumed without hesitation. Your empty dish reflects the inner peace of a true member of society. The Higher Powers observe your magnificent accomplishment with great joy."
+                    }
+                }
+            }
+        },
+        "section2.13": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have successfully cleared your platter down to the very last of the glaze. This display of culinary respect satisfies the ancient laws of our society. The High Chancellor notes your flawless devotion to the entire meal."
+                    }
+                }
+            }
+        },
+        "section2.14": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your dish stands empty, devoid of even the smallest particle. This grand achievement proves your loyalty to the ideals of the Great Beyond. The High Chancellor rewards such immaculate consumption with high praise."
+                    }
+                }
+            }
+        },
+        "section2.15": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have eaten every bite, leaving your bowl completely spotless tonight. Your actions showcase a genuine appreciation for your daily nourishment. The Great Beyond honours those who leave no morsel behind."
+                    }
+                }
+            }
+        },
+        "section2.16": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The feast has been finished, leaving the porcelain completely bare. Your dedication to a clean finish elevates our group's reputation. The High Chancellor observes your perfect dining etiquette with immense pleasure."
+                    }
+                }
+            }
+        },
+        "section2.17": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have cleared your plate down to the absolute bare minimum. This flawless victory over waste strengthens your bond with the culinary realm. The spirits of the Great Beyond salute your thoroughness today."
+                    }
+                }
+            }
+        },
+        "section2.18": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every single item of food has been joyfully and completely consumed. Your clean dish stands as a monument to your respect for food. The High Chancellor expresses deep admiration for your spotless dinner plate."
+                    }
+                }
+            }
+        },
+        "section2.19": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have successfully cleared your dish. Your silent dedication to the rules of consumption inspires us all deeply. The Great Beyond acknowledges the sheer perfection of your empty platter."
+                    }
+                }
+            }
+        },
+        "section2.20": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Not a solitary speck of food remains upon your dining surface. Your focus brings great honour to the traditions of the Clean Plate Society. The High Chancellor applauds your flawless execution of a finished meal."
+                    }
+                }
+            }
+        },
+        "section2.21": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your assigned portion has been reduced to the final molecule. This display of complete consumption satisfies the requirements of the high court. The cosmic forces smile upon your beautifully empty and clean dish."
+                    }
+                }
+            }
+        },
+        "section2.22": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left your plate absolutely clean. Your mastery of the meal demonstrates a profound respect for the kitchen. The High Chancellor records your dining success with the utmost approval."
+                    }
+                }
+            }
+        },
+        "section2.23": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every bit of sustenance has been eaten, leaving nothing behind. Your immaculate dish represents the ultimate achievement of our culinary brotherhood. The Great Beyond celebrates this moment of perfect and absolute consumption."
+                    }
+                }
+            }
+        },
+        "section2.24": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have successfully finished everything on your plate. This dedication to an empty dish proves your worth to our society. The High Chancellor recognises your triumph over waste with great enthusiasm."
+                    }
+                }
+            }
+        },
+        "section2.25": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate has been cleared entirely, leaving only a shiny surface. Your steadfast adherence to our dining laws brings joy to the realm. The High Chancellor commends your devotion to finishing the entire portion."
+                    }
+                }
+            }
+        },
+        "section2.26": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The meal has been completely devoured, leaving no crumbs behind. Your impeccable performance at the table sets a high bar for others. The Great Beyond rewards your complete dedication to a spotless plate."
+                    }
+                }
+            }
+        },
+        "section2.27": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left absolutely nothing remaining on your dinner plate. This perfect completion of your meal honours the chef's efforts. The High Chancellor beams with pride at your beautifully cleared dish."
+                    }
+                }
+            }
+        },
+        "section2.28": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate has been entirely freed from any remnants of food. This unwavering discipline proves your true commitment to our sacred society. The Great Beyond acknowledges your flawless victory over the evening meal."
+                    }
+                }
+            }
+        },
+        "section2.29": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have eaten the entire portion, leaving the porcelain bare. Your clean finish highlights the deep respect you hold for the harvest. The High Chancellor celebrates your spotless platter with great administrative joy."
+                    }
+                }
+            }
+        },
+        "section2.30": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every last morsel has been removed from your dining platter. Your pristine dish is a beautiful symbol of absolute respect for the kitchen. The High Chancellor notes your incredible dedication to finishing your food."
+                    }
+                }
+            }
+        },
+        "section2.31": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have completely cleared your plate, leaving no food behind. Your attention to detail in the clean finish brings immense credit to our order. The High Chancellor stands ready to acknowledge your magnificent dining triumph."
+                    }
+                }
+            }
+        },
+        "section2.32": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate has been presented to the high court in a state of flawless vacancy. This total consumption satisfies the strict operational standards mandated by our ancient charter. The High Chancellor officially commends your unwavering adherence to our dining protocols."
+                    }
+                }
+            }
+        },
+        "section2.33": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have successfully executed the mandate of the empty dish with complete precision. This standard of discipline preserves the delicate equilibrium between global harvest and individual sustenance. The High Chancellor notes your exemplary performance at the grand dining table with great satisfaction."
+                    }
+                }
+            }
+        },
+        "section2.34": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every particle of the served portion has been systematically and thoroughly consumed. Your complete refusal to permit waste elevates your standing within the administrative ranks of our order. The Great Beyond formally recognises this demonstration of supreme culinary stewardship."
+                    }
+                }
+            }
+        },
+        "section2.35": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your dinnerware has been returned to the kitchen, completely devoid of any organic remnants. This immaculate finish reflects the highest tiers of dedication expected of our society members. The High Chancellor bestows official praise for your meticulous, waste-free conduct today."
+                    }
+                }
+            }
+        },
+        "section2.36": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You stand before the registry having left absolutely no sustenance unconsumed upon your platter. This diligent act honours both the labour of preparation and the sacred sanctity of the meal. The High Chancellor records this administrative victory with the utmost bureaucratic approval."
+                    }
+                }
+            }
+        },
+        "section2.37": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The entire boundary of your plate has been cleared to a state of absolute porcelain purity. Such unwavering commitment to our core tenets serves as an enduring benchmark for all future initiates. The Great Beyond rewards this complete realisation of the society's primary objective."
+                    }
+                }
+            }
+        },
+        "section2.38": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left no trace of food, meeting the absolute definition of a pristine finish. This calculated display of restraint and appreciation fulfils your solemn duty to the collective kitchen. The High Chancellor formally acknowledges your flawless compliance with the laws of consumption."
+                    }
+                }
+            }
+        },
+        "section2.39": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Not a single microscopic crumb remains upon the surface of your designated dining apparatus. This textbook execution of the clean finish brings immense prestige to your personal file. The high court of the Great Beyond validates your profound respect for agricultural resource allocation."
+                    }
+                }
+            }
+        },
+        "section2.40": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The total mass of the meal provided to you has been entirely and successfully processed. Your absolute devotion to the principles of conservation strengthens the foundational pillars of our order. The High Chancellor registers your perfect compliance with our society\u2019s highest culinary code."
+                    }
+                }
+            }
+        },
+        "section2.41": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your platter stands completely bare, serving as a silent testament to your personal discipline. This definitive victory over excess aligns perfectly with the spiritual harmony of the culinary universe. The High Chancellor expresses deep formal admiration for your spotless and thoroughly emptied dinnerware."
+                    }
+                }
+            }
+        },
+        "section2.42": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every element of your daily ration has been reduced to the absolute glaze of the dish. This rigorous adherence to our conservation standards exemplifies true loyalty to the Clean Plate lineage. The Great Beyond formally elevates your status for this flawless display of dinner-table protocol."
+                    }
+                }
+            }
+        },
+        "section2.43": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have completely cleared your plate, leaving no material residue behind. This action successfully concludes the meal's ceremonial cycle with absolute administrative perfection. The High Chancellor notes your immaculate participation in today's feast with the highest regard."
+                    }
+                }
+            }
+        },
+        "section2.44": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your dinnerware has been audited and found to be thoroughly free of any leftover sustenance. This precise fulfilment of the society's mandate reinforces the eternal contract between grower and consumer. The High Chancellor validates this immaculate demonstration of dietary discipline with official state praise."
+                    }
+                }
+            }
+        },
+        "section2.45": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every scrap of nourishment has disappeared from your bowl under your highly focused supervision. This exemplary performance reflects the quiet dignity required of all true servants of the Great Beyond. The high court celebrates this moment of absolute, waste-free completion with administrative joy."
+                    }
+                }
+            }
+        },
+        "section2.46": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left your dining surface absolutely mirror-like tonight. This thorough execution of our dining laws satisfies the oldest traditions of our venerable culinary order. The High Chancellor enters this chamber to acknowledge your flawless victory over waste officially."
+                    }
+                }
+            }
+        },
+        "section2.47": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The portion assigned to your station has been consumed in its entirety without exception. This steadfast devotion to the empty platter ensures that no part of the harvest was in vain. The Great Beyond records this achievement as a prime example of ideal conduct in society."
+                    }
+                }
+            }
+        },
+        "section2.48": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You stand victorious over your meal, having spared not a single drop of gravy or crumb of bread. This beautiful completion of your dining assignment reflects profound respect for the hands that prepare nourishment. The High Chancellor observes your perfect plate with immense formal appreciation and high honour."
+                    }
+                }
+            }
+        },
+        "section2.49": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate has been verified as entirely cleared, leaving the porcelain surface completely bare. This magnificent display of thorough consumption brings great distinction to your ongoing record in society. The High Chancellor stands ready to archive this act of immaculate dining-table discipline permanently."
+                    }
+                }
+            }
+        },
+        "section2.50": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have executed the task of clearing your dish to absolute perfection. Your silent, focused adherence to the laws of consumption inspires the entire executive council. The spirits of the Great Beyond salute your thoroughness and unwavering dedication to the empty plate."
+                    }
+                }
+            }
+        },
+        "section2.51": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Not a solitary trace of your meal remains upon the dining apparatus assigned to you. This calculated achievement fulfils your solemn obligation to the high administrative court of our order. The High Chancellor applauds your flawless execution of a completed, waste-free dining assignment."
+                    }
+                }
+            }
+        },
+        "section2.52": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your assigned portion has been systematically reduced to the final molecular crumb. This total clearance satisfies the strict aesthetic and practical requirements of the High Chancellor's court. The cosmic ledger balances perfectly today as a direct result of your clean dinner plate."
+                    }
+                }
+            }
+        },
+        "section2.53": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left your plate in a verified state of absolute and total cleanliness. Your mastery over the assigned meal demonstrates a profound, institutional respect for the kitchen's labour. The High Chancellor records this notable dining success with the highest level of executive approval."
+                    }
+                }
+            }
+        },
+        "section2.54": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every bit of sustenance has been eaten, leaving absolutely nothing remaining on the platter. Your immaculate dish represents the pinnacle of operational standards in our elite culinary brotherhood. The Great Beyond celebrates this specific moment of perfect, absolute, and total consumption."
+                    }
+                }
+            }
+        },
+        "section2.55": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have successfully processed and finished every single item presented upon your platter. This unwavering dedication to an empty dish proves your ongoing worthiness to our esteemed organisation. The High Chancellor recognises your triumph over unnecessary waste with great institutional enthusiasm."
+                    }
+                }
+            }
+        },
+        "section2.56": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate has been cleared entirely, leaving behind only a brilliantly reflective porcelain glaze. Your steadfast compliance with our administrative dining laws brings great order to the territory. The High Chancellor formally commends your devotion to finishing the entirety of your assigned portion."
+                    }
+                }
+            }
+        },
+        "section2.57": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The evening meal has been completely devoured, leaving no crumbs or droplets behind. Your impeccable performance at the dining table sets an incredibly high standard for all incoming members. The Great Beyond rewards this total, uncompromised dedication to keeping a plate completely spotless."
+                    }
+                }
+            }
+        },
+        "section2.58": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left absolutely nothing remaining upon the surface of your official dinner plate. This perfect completion of the meal honours the strategic efforts of the culinary team. The High Chancellor beams with administrative pride at the sight of your beautifully cleared dish."
+                    }
+                }
+            }
+        },
+        "section2.59": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate has been entirely freed from any remaining components of the evening feast. This disciplined approach to consumption proves your true commitment to our society's sacred protocols. The Great Beyond acknowledges your flawless administrative victory over the remnants of your daily bread."
+                    }
+                }
+            }
+        },
+        "section2.60": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have eaten the entire portion provided, leaving the porcelain completely bare and clean. Your clean finish highlights the deep, institutional respect you hold for the agricultural harvest. The High Chancellor celebrates your spotless platter with immense and profound administrative joy."
+                    }
+                }
+            }
+        },
+        "section2.61": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every last morsel of food has been successfully removed from your official dining platter. Your pristine dish serves as a beautiful, unblemished symbol of absolute respect for the kitchen. The High Chancellor notes your incredible dedication to finishing your food with the highest praise."
+                    }
+                }
+            }
+        },
+        "section2.62": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have completely cleared your plate, leaving no food items or residue behind. Your profound devotion to the clean finish brings immense credit to the legacy of our order. The High Chancellor stands ready to archive this magnificent dining triumph for all eternity officially."
+                    }
+                }
+            }
+        },
+        "section2.63": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate has undergone rigorous evaluation and is empty. This total consumption satisfies the strict operational standards mandated by our ancient administrative charter. The High Chancellor officially logs your unwavering adherence to our dining protocols."
+                    }
+                }
+            }
+        },
+        "section2.64": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have successfully executed the mandate of the empty dish with commendable physical precision. This standard of discipline preserves the delicate equilibrium between global harvest and individual sustenance. The High Chancellor notes your exemplary performance at the grand dining table with immense satisfaction."
+                    }
+                }
+            }
+        },
+        "section2.65": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every particle of the served portion has been systematically and thoroughly cleared from your station. Your complete refusal to permit waste elevates your standing within the administrative ranks of our order. The Great Beyond formally recognises this demonstration of supreme culinary stewardship."
+                    }
+                }
+            }
+        },
+        "section2.66": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your dinnerware has been returned to the registry, completely devoid of any organic remnants. This immaculate finish reflects the highest tiers of dedication expected of our society members. The High Chancellor bestows official praise for your meticulous, waste-free conduct today."
+                    }
+                }
+            }
+        },
+        "section2.67": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You stand before the registry having left absolutely no sustenance unconsumed upon your platter. This diligent act honours both the labour of preparation and the sacred sanctity of the meal. The High Chancellor records this administrative victory with the utmost bureaucratic approval."
+                    }
+                }
+            }
+        },
+        "section2.68": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The entire boundary of your plate has been cleared to a state of absolute porcelain purity. Such unwavering commitment to our core tenets serves as an enduring benchmark for all future initiates. The Great Beyond rewards this complete realisation of the society's primary objective."
+                    }
+                }
+            }
+        },
+        "section2.69": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left no trace of food, meeting the absolute definition of a pristine finish. This calculated display of restraint and appreciation fulfils your solemn duty to the collective kitchen. The High Chancellor formally acknowledges your flawless compliance with the laws of consumption."
+                    }
+                }
+            }
+        },
+        "section2.70": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Not a single microscopic crumb remains upon the surface of your designated dining apparatus. This textbook execution of the clean finish brings immense prestige to your personal file. The high court of the Great Beyond validates your profound respect for agricultural resource allocation."
+                    }
+                }
+            }
+        },
+        "section2.71": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The total mass of the meal provided to you has been entirely and successfully processed. Your absolute devotion to the principles of conservation strengthens the foundational pillars of our order. The High Chancellor registers your perfect compliance with our society\u2019s highest culinary code."
+                    }
+                }
+            }
+        },
+        "section2.72": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your platter stands completely bare, serving as a silent testament to your personal discipline. This definitive victory over excess aligns perfectly with the spiritual harmony of the culinary universe. The High Chancellor expresses deep formal admiration for your spotless and thoroughly emptied dinnerware."
+                    }
+                }
+            }
+        },
+        "section2.73": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every element of your daily ration has been reduced to the absolute glaze of the dish. This rigorous adherence to our conservation standards exemplifies true loyalty to the Clean Plate lineage. The Great Beyond formally elevates your status for this flawless display of dinner-table protocol."
+                    }
+                }
+            }
+        },
+        "section2.74": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have completely cleared your plate, leaving no material residue behind. This action successfully concludes the meal's ceremonial cycle with absolute administrative perfection. The High Chancellor notes your immaculate participation in today's feast with the highest regard."
+                    }
+                }
+            }
+        },
+        "section2.75": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your dinnerware has been audited and found to be thoroughly free of any leftover sustenance. This precise fulfilment of the society's mandate reinforces the eternal contract between grower and consumer. The High Chancellor validates this immaculate demonstration of dietary discipline with official state praise."
+                    }
+                }
+            }
+        },
+        "section2.76": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every scrap of nourishment has disappeared from your bowl under your highly focused supervision. This exemplary performance reflects the quiet dignity required of all true servants of the Great Beyond. The high court celebrates this moment of absolute, waste-free completion with administrative joy."
+                    }
+                }
+            }
+        },
+        "section2.77": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left your dining surface absolutely mirror-like tonight. This thorough execution of our dining laws satisfies the oldest traditions of our venerable culinary order. The High Chancellor enters this chamber to acknowledge your flawless victory over waste officially."
+                    }
+                }
+            }
+        },
+        "section2.78": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The portion assigned to your station has been consumed in its entirety without exception. This steadfast devotion to the empty platter ensures that no part of the harvest was in vain. The Great Beyond records this achievement as a prime example of ideal conduct in society."
+                    }
+                }
+            }
+        },
+        "section2.79": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You stand victorious over your meal, having spared not a single drop of gravy or crumb of bread. This beautiful completion of your dining assignment reflects profound respect for the hands that prepare nourishment. The High Chancellor observes your perfect plate with immense formal appreciation and high honour."
+                    }
+                }
+            }
+        },
+        "section2.80": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate has been verified as entirely cleared, leaving the porcelain surface completely bare. This magnificent display of thorough consumption brings great distinction to your ongoing record in society. The High Chancellor stands ready to archive this act of immaculate dining-table discipline permanently."
+                    }
+                }
+            }
+        },
+        "section2.81": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have executed the task of clearing your dish to absolute perfection. Your silent, focused adherence to the laws of consumption inspires the entire executive council. The spirits of the Great Beyond salute your thoroughness and unwavering dedication to the empty plate."
+                    }
+                }
+            }
+        },
+        "section2.82": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Not a solitary trace of your meal remains upon the dining apparatus assigned to you. This calculated achievement fulfils your solemn obligation to the high administrative court of our order. The High Chancellor applauds your flawless execution of a completed, waste-free dining assignment."
+                    }
+                }
+            }
+        },
+        "section2.83": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your assigned portion has been systematically reduced to the final molecular crumb. This total clearance satisfies the strict aesthetic and practical requirements of the High Chancellor's court. The cosmic ledger balances perfectly today as a direct result of your clean dinner plate."
+                    }
+                }
+            }
+        },
+        "section2.84": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left your plate in a verified state of absolute and total cleanliness. Your mastery of the assigned meal demonstrates a profound institutional respect for the kitchen's labour. The High Chancellor records this notable dining success with the highest level of executive approval."
+                    }
+                }
+            }
+        },
+        "section2.85": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every bit of sustenance has been eaten, leaving absolutely nothing remaining on the platter. Your immaculate dish represents the pinnacle of operational standards in our elite culinary brotherhood. The Great Beyond celebrates this specific moment of perfect, absolute, and total consumption."
+                    }
+                }
+            }
+        },
+        "section2.86": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have successfully processed and finished every single item presented upon your platter. This unwavering dedication to an empty dish demonstrates your continued worthiness of our esteemed organisation. The High Chancellor recognises your triumph over unnecessary waste with great institutional enthusiasm."
+                    }
+                }
+            }
+        },
+        "section2.87": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate has been cleared entirely, leaving behind only a brilliantly reflective porcelain glaze. Your steadfast compliance with our administrative dining laws brings great order to the territory. The High Chancellor formally commends your devotion to finishing the entirety of your assigned portion."
+                    }
+                }
+            }
+        },
+        "section2.88": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The evening meal has been completely devoured, leaving no crumbs or droplets behind. Your impeccable performance at the dining table sets an incredibly high standard for all incoming members. The Great Beyond rewards this total, uncompromised dedication to keeping a plate completely spotless."
+                    }
+                }
+            }
+        },
+        "section2.89": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have left absolutely nothing remaining upon the surface of your official dinner plate. This perfect completion of the meal honours the strategic efforts of the culinary preparation staff. The High Chancellor beams with administrative pride at the sight of your beautifully cleared dish."
+                    }
+                }
+            }
+        },
+        "section2.90": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Your plate has been entirely freed from any remaining components of the evening feast. This disciplined approach to consumption proves your true commitment to our society's sacred protocols. The Great Beyond acknowledges your flawless administrative victory over the remnants of your daily bread."
+                    }
+                }
+            }
+        },
+        "section2.91": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have eaten the entire portion provided, leaving the porcelain completely bare and clean. Your clean finish highlights the deep, institutional respect you hold for the agricultural harvest. The High Chancellor celebrates your spotless platter with immense and profound administrative joy."
+                    }
+                }
+            }
+        },
+        "section2.92": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Every last morsel of food has been successfully removed from your official dining platter. Your pristine dish serves as a beautiful, unblemished symbol of absolute respect for the kitchen. The High Chancellor notes your incredible dedication to finishing your food with the highest praise."
+                    }
+                }
+            }
+        },
+        "section2.93": {
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "You have completely cleared your plate, leaving no food items or residue behind. Your profound devotion to the clean finish brings immense credit to the legacy of our order. The High Chancellor stands ready to archive this magnificent dining triumph for all eternity officially."
+                    }
+                }
+            }
+        }
+    },
+    "version": "1.1"
+}
